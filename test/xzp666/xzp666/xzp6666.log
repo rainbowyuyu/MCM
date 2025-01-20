@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.20)  20 JAN 2025 22:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.20)  20 JAN 2025 22:26
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/Lenovo/Documents/GitHub/MCM/latex模板/v2/test.tex
-(c:/Users/Lenovo/Documents/GitHub/MCM/latex模板/v2/test.tex
+**c:/Users/Lenovo/Documents/GitHub/MCM/latex模板/v2/xzp6666.tex
+(c:/Users/Lenovo/Documents/GitHub/MCM/latex模板/v2/xzp6666.tex
 LaTeX2e <2024-11-01> patch level 1
 L3 programming layer <2024-12-25>
 (./mcmthesis.cls
@@ -845,8 +845,8 @@ LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 (Font)              scaled to size 12.0pt on input line 78.
 \@quotelevel=\count469
 \@quotereset=\count470
- (./test.aux)
-\openout1 = `test.aux'.
+ (./xzp6666.aux)
+\openout1 = `xzp6666.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 78.
 LaTeX Font Info:    ... okay on input line 78.
@@ -916,9 +916,9 @@ LaTeX Font Info:    ... okay on input line 78.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 Package hyperref Info: Link coloring OFF on input line 78.
-(./test.out) (./test.out)
+(./xzp6666.out) (./xzp6666.out)
 \@outlinefile=\write5
-\openout5 = `test.out'.
+\openout5 = `xzp6666.out'.
 
 \c@mv@tabular=\count478
 \c@mv@boldtabular=\count479
@@ -947,11 +947,11 @@ File: english.lbx 2024/03/21 v3.20 biblatex localization (PK/MW)
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
-\openout4 = `test.bcf'.
+\openout4 = `xzp6666.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'test.bbl' found.
- (./test.bbl)
+Package biblatex Info: ... file 'xzp6666.bbl' found.
+ (./xzp6666.bbl)
 Package biblatex Info: Reference section=0 on input line 78.
 Package biblatex Info: Reference segment=0 on input line 78.
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
@@ -971,7 +971,7 @@ LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 (Font)              scaled to size 17.28pt on input line 128.
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
 (Font)              scaled to size 17.28pt on input line 128.
- (./test.toc
+ (./xzp6666.toc
 LaTeX Font Info:    Trying to load font information for U+msa on input line 1.
  (c:/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
@@ -989,7 +989,7 @@ LaTeX Font Info:    Trying to load font information for U+lasy on input line 1.
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 ))
 \tf@toc=\write6
-\openout6 = `test.toc'.
+\openout6 = `xzp6666.toc'.
 
 
 
@@ -1195,27 +1195,27 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [17] 
 enddocument/afterlastpage (AED): lastpage setting LastPage.
-(./test.aux)
+(./xzp6666.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 1
 L3 programming layer <2020/03/25>
  ***********
-Package rerunfilecheck Info: File `test.out' has not changed.
+Package rerunfilecheck Info: File `xzp6666.out' has not changed.
 (rerunfilecheck)             Checksum: D8692EE1C4180BB09D4F376A4E9E8BEF;6072.
-Package logreq Info: Writing requests to 'test.run.xml'.
-\openout1 = `test.run.xml'.
+Package logreq Info: Writing requests to 'xzp6666.run.xml'.
+\openout1 = `xzp6666.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
  25402 strings out of 475125
- 426688 string characters out of 5765106
- 1490975 words of memory out of 5000000
+ 426781 string characters out of 5765106
+ 1490990 words of memory out of 5000000
  47853 multiletter control sequences out of 15000+600000
  610920 words of font info for 92 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 90i,13n,101p,1249b,5182s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 90i,13n,101p,1252b,5182s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/bera/fvsr8a.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/tex-gyre/qtmr.pfb><c:/texlive/2024/texmf-dist/fonts/type1/urw/courier/ucrb8a.pfb><c:/texlive/2024/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/newtx/ztmb.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/newtx/ztmr.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/newtx/ztmri.pfb>
-Output written on test.pdf (17 pages, 396025 bytes).
+Output written on xzp6666.pdf (17 pages, 396025 bytes).
 PDF statistics:
  449 PDF objects out of 1000 (max. 8388607)
  395 compressed objects within 4 object streams

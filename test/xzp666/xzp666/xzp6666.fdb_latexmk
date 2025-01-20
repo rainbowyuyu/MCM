@@ -1,13 +1,13 @@
 # Fdb version 4
-["biber test"] 1737383028.93673 "test.bcf" "test.bbl" "test" 1737383035.594 0
+["biber xzp6666"] 1737383212.6715 "xzp6666.bcf" "xzp6666.bbl" "xzp6666" 1737383219.22374 0
   "reference.bib" 1737379748 2102 8c9ba7806aed94d3d28253aa497174e0 ""
-  "test.bcf" 1737383035 134499 b12e6e800959aa1be5527787162a7a01 "pdflatex"
+  "xzp6666.bcf" 1737383218 134499 b12e6e800959aa1be5527787162a7a01 "pdflatex"
   (generated)
-  "test.bbl"
-  "test.blg"
+  "xzp6666.bbl"
+  "xzp6666.blg"
   (rewritten before read)
-["pdflatex"] 1737383033.38022 "c:/Users/Lenovo/Documents/GitHub/MCM/latex模板/v2/test.tex" "test.pdf" "test" 1737383035.59509 0
-  "c:/Users/Lenovo/Documents/GitHub/MCM/latex模板/v2/test.tex" 1737383021 32637 4220f8393f8db8b2ae6514e0f955e79a ""
+["pdflatex"] 1737383216.93427 "c:/Users/Lenovo/Documents/GitHub/MCM/latex模板/v2/xzp6666.tex" "xzp6666.pdf" "xzp6666" 1737383219.22488 0
+  "c:/Users/Lenovo/Documents/GitHub/MCM/latex模板/v2/xzp6666.tex" 1737383205 32637 4220f8393f8db8b2ae6514e0f955e79a ""
   "c:/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc" 1737368298 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "c:/texlive/2024/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf.enc" 1737373404 2914 fdbc4a54b9bc76f4551b5303f2737d33 ""
   "c:/texlive/2024/texmf-dist/fonts/enc/dvips/tex-gyre/q-ts1.enc" 1737377312 3124 3813fd4c981d99822890a2861b0d274c ""
@@ -216,18 +216,18 @@
   "figures/fig2.jpg" 1737379748 13918 73de9cd4de6e0faef986f0cb619dbd08 ""
   "figures/fig24.JPG" 1737379748 59967 b946c71a6aac4100a7959a51bda15d5d ""
   "mcmthesis.cls" 1737379748 10727 67adc6d5c4f482d41932bbcb779dcc1e ""
-  "test.aux" 1737383035 8380 7d24d83305d84501b7eab1e974eb3cf4 "pdflatex"
-  "test.bbl" 1737383031 23903 9d18b4cd9ad148f5a02b25f9c26f5e16 "biber test"
-  "test.out" 1737383035 6072 d8692ee1c4180bb09d4f376a4e9e8bef "pdflatex"
-  "test.run.xml" 1737383035 2426 55520dd12f3f2d52584224a8bccc45f0 "pdflatex"
-  "test.tex" 1737383021 32637 4220f8393f8db8b2ae6514e0f955e79a ""
-  "test.toc" 1737383035 2943 2886419684a74742de10395d87416190 "pdflatex"
+  "xzp6666.aux" 1737383218 8380 7d24d83305d84501b7eab1e974eb3cf4 "pdflatex"
+  "xzp6666.bbl" 1737383214 23903 9d18b4cd9ad148f5a02b25f9c26f5e16 "biber xzp6666"
+  "xzp6666.out" 1737383218 6072 d8692ee1c4180bb09d4f376a4e9e8bef "pdflatex"
+  "xzp6666.run.xml" 1737383218 2447 9774a5ab7cea5a56b9ea6248cb482802 "pdflatex"
+  "xzp6666.tex" 1737383205 32637 4220f8393f8db8b2ae6514e0f955e79a ""
+  "xzp6666.toc" 1737383218 2943 2886419684a74742de10395d87416190 "pdflatex"
   (generated)
-  "test.aux"
-  "test.bcf"
-  "test.log"
-  "test.out"
-  "test.pdf"
-  "test.run.xml"
-  "test.toc"
+  "xzp6666.aux"
+  "xzp6666.bcf"
+  "xzp6666.log"
+  "xzp6666.out"
+  "xzp6666.pdf"
+  "xzp6666.run.xml"
+  "xzp6666.toc"
   (rewritten before read)
