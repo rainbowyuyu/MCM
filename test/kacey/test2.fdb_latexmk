@@ -1,7 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1737381362.25475 "d:/github/MCM/latex模板/v2/MCM-ICM_Summary.tex" "MCM-ICM_Summary.pdf" "MCM-ICM_Summary" 1737381363.31994 0
-  "MCM-ICM_Summary.aux" 1737381363 32 044b7f8fc9779af7531264e0c5c84b6d "pdflatex"
-  "MCM-ICM_Summary.tex" 1737381361 2807 4c5d3f227558fcc7e0861d7a0ec9c00c ""
+["pdflatex"] 1737382574.66467 "c:/Users/kacey/Desktop/test2.tex" "test2.pdf" "test2" 1737382575.7364 0
+  "c:/Users/kacey/Desktop/test2.tex" 1737382573 2211 8dc058ce36d61a90ee589e50c6b5ff2d ""
   "c:/texlive/2024/texmf-dist/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc" 1737373697 2083 60e36f8eac802fcaf19eabe2633b406e ""
   "c:/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1737373226 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1737372739 916 f87d7c45f9c908e672703b83b72241a3 ""
@@ -96,9 +95,10 @@
   "c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1737374494 5421091 c5481d6a9573c61ed79fa119d87ba970 ""
   "c:/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1737374667 6862213 5e751d36c8d98aa5ee77a806f8d6ab1f ""
   "c:/texlive/2024/texmf.cnf" 1737374473 713 e69b156964470283e0530f5060668171 ""
-  "d:/github/MCM/latex模板/v2/MCM-ICM_Summary.tex" 1737381361 2807 4c5d3f227558fcc7e0861d7a0ec9c00c ""
+  "test2.aux" 1737382575 32 044b7f8fc9779af7531264e0c5c84b6d "pdflatex"
+  "test2.tex" 1737382573 2211 8dc058ce36d61a90ee589e50c6b5ff2d ""
   (generated)
-  "MCM-ICM_Summary.aux"
-  "MCM-ICM_Summary.log"
-  "MCM-ICM_Summary.pdf"
+  "test2.aux"
+  "test2.log"
+  "test2.pdf"
   (rewritten before read)
