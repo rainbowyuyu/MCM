@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.20)  20 JAN 2025 21:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.20)  20 JAN 2025 22:16
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**d:/github/MCM/latex模板/v2/MCM-ICM_Summary.tex
-(d:/github/MCM/latex模板/v2/MCM-ICM_Summary.tex
+**c:/Users/kacey/Desktop/test2.tex
+(c:/Users/kacey/Desktop/test2.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
 (c:/texlive/2024/texmf-dist/tex/latex/base/article.cls
@@ -359,8 +359,8 @@ File: ot1ntxtlf.fd 2021/05/24 v1.0 font definition file for OT1/ntx/tlf
 )
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
 (Font)              scaled to size 12.0pt on input line 33.
- (./MCM-ICM_Summary.aux)
-\openout1 = `MCM-ICM_Summary.aux'.
+ (./test2.aux)
+\openout1 = `test2.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 33.
 LaTeX Font Info:    Trying to load font information for OML+ntxmi on input line 33.
@@ -494,7 +494,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [1
 
-] (./MCM-ICM_Summary.aux)
+] (./test2.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2020/03/25>
@@ -502,14 +502,14 @@ L3 programming layer <2020/03/25>
  ) 
 Here is how much of TeX's memory you used:
  7551 strings out of 476023
- 105679 string characters out of 5791734
- 1930190 words of memory out of 5000000
+ 105541 string characters out of 5791734
+ 1928190 words of memory out of 5000000
  29541 multiletter control sequences out of 15000+600000
  578889 words of font info for 81 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 80i,11n,93p,355b,267s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 80i,11n,93p,339b,267s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2024/texmf-dist/fonts/type1/public/newtx/NewTXMI.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/newtx/txsys.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/newtx/ztmb.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/newtx/ztmr.pfb>
-Output written on MCM-ICM_Summary.pdf (2 pages, 83421 bytes).
+Output written on test2.pdf (2 pages, 79966 bytes).
 PDF statistics:
  32 PDF objects out of 1000 (max. 8388607)
  19 compressed objects within 1 object stream
