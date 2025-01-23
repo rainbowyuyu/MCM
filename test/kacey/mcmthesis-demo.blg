@@ -1,0 +1,19 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:310> INFO - Logfile is 'mcmthesis-demo.blg'
+[94] biber-MSWIN64:340> INFO - === 
+[131] Biber.pm:419> INFO - Reading 'mcmthesis-demo.bcf'
+[238] Biber.pm:979> INFO - Found 8 citekeys in bib section 0
+[253] Biber.pm:4419> INFO - Processing section 0
+[264] Biber.pm:4610> INFO - Looking for bibtex file 'reference.bib' for section 0
+[318] bibtex.pm:1713> INFO - LaTeX decoding ...
+[328] bibtex.pm:1519> INFO - Found BibTeX data source 'reference.bib'
+[376] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[376] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[377] Biber.pm:4239> INFO - Sorting list 'apa/apasortcite//global/global' of type 'entry' with template 'apa' and locale 'en-US'
+[377] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[390] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[390] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[390] Biber.pm:4239> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'en-US'
+[390] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[396] bbl.pm:660> INFO - Writing 'mcmthesis-demo.bbl' with encoding 'UTF-8'
+[402] bbl.pm:763> INFO - Output to mcmthesis-demo.bbl
