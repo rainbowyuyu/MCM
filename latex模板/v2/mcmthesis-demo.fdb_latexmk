@@ -1,13 +1,13 @@
 # Fdb version 4
-["biber mcmthesis-demo"] 1737477154 "mcmthesis-demo.bcf" "mcmthesis-demo.bbl" "mcmthesis-demo" 1737477698 0
-  "./reference.bib" 1737476868 2102 8c9ba7806aed94d3d28253aa497174e0 ""
-  "mcmthesis-demo.bcf" 1737477697 126284 ae87be61929006dc5d591ce120724f04 "pdflatex"
+["biber mcmthesis-demo"] 1737519850 "mcmthesis-demo.bcf" "mcmthesis-demo.bbl" "mcmthesis-demo" 1737537219 0
+  "./reference.bib" 1737516388 2099 d79c0229b1ba83af777d9db5d9d6517c ""
+  "mcmthesis-demo.bcf" 1737537218 126284 ae87be61929006dc5d591ce120724f04 "pdflatex"
   (generated)
   "mcmthesis-demo.bbl"
   "mcmthesis-demo.blg"
   (rewritten before read)
-["pdflatex"] 1737477696 "c:/Users/admin/Desktop/GitHub/MCM/latex模板/v2/mcmthesis-demo.tex" "mcmthesis-demo.pdf" "mcmthesis-demo" 1737477698 0
-  "c:/Users/admin/Desktop/GitHub/MCM/latex模板/v2/mcmthesis-demo.tex" 1737477695 32639 758f9672e4f1aab7c94efbec42d99e82 ""
+["pdflatex"] 1737537216 "c:/Users/admin/Desktop/GitHub/MCM/latex模板/v2/mcmthesis-demo.tex" "mcmthesis-demo.pdf" "mcmthesis-demo" 1737537219 0
+  "c:/Users/admin/Desktop/GitHub/MCM/latex模板/v2/mcmthesis-demo.tex" 1737526603 32647 4031466a32a771545089e8fd9e313f7e ""
   "c:/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc" 1737381974 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "c:/texlive/2023/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf.enc" 1737382706 2914 8283dfc24eaf1964346f843d7605c2b0 ""
   "c:/texlive/2023/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec.enc" 1737383224 2457 aaabbccba4df2a7f7371410ee4e075a3 ""
@@ -214,12 +214,12 @@
   "figures//fig1.jpg" 1737476868 64072 ab7cb09780aa6c778d8f1db4cf59c382 ""
   "figures//fig2.jpg" 1737476868 13918 73de9cd4de6e0faef986f0cb619dbd08 ""
   "figures//fig24.jpg" 1737476868 59967 b946c71a6aac4100a7959a51bda15d5d ""
-  "mcmthesis-demo.aux" 1737477697 8638 cddd4c8fd1b03eb4f8879f6d4be67ecb "pdflatex"
-  "mcmthesis-demo.bbl" 1737477156 21809 32f2cc98243fbccf92b3296cb0b2883a "biber mcmthesis-demo"
-  "mcmthesis-demo.out" 1737477697 6072 c0c11abfa3da408dd36f6e4fca688512 "pdflatex"
-  "mcmthesis-demo.run.xml" 1737477697 2496 0a5d76c5dcb0d0245da61f47235f7d6d "pdflatex"
-  "mcmthesis-demo.tex" 1737477695 32639 758f9672e4f1aab7c94efbec42d99e82 ""
-  "mcmthesis-demo.toc" 1737477697 2943 2a9a25e09b8c8726392cffd24cf88e01 "pdflatex"
+  "mcmthesis-demo.aux" 1737537218 8527 44187b0001b11d0a28cb3d6357b82b9c "pdflatex"
+  "mcmthesis-demo.bbl" 1737519852 19475 524481f3541bb70a7079f1127bd8220f "biber mcmthesis-demo"
+  "mcmthesis-demo.out" 1737537218 6072 c0c11abfa3da408dd36f6e4fca688512 "pdflatex"
+  "mcmthesis-demo.run.xml" 1737537218 2496 0a5d76c5dcb0d0245da61f47235f7d6d "pdflatex"
+  "mcmthesis-demo.tex" 1737526603 32647 4031466a32a771545089e8fd9e313f7e ""
+  "mcmthesis-demo.toc" 1737537218 2943 2a9a25e09b8c8726392cffd24cf88e01 "pdflatex"
   "mcmthesis.cls" 1737476868 10727 67adc6d5c4f482d41932bbcb779dcc1e ""
   (generated)
   "mcmthesis-demo.aux"

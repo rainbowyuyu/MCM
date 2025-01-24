@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2025.1.20)  22 JAN 2025 00:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2025.1.20)  22 JAN 2025 17:13
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -932,7 +932,15 @@ Package biblatex Info: Automatic encoding selection.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'mcmthesis-demo.bbl' found.
- (./mcmthesis-demo.bbl)
+ (./mcmthesis-demo.bbl
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                holman2002
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+)
 Package biblatex Info: Reference section=0 on input line 78.
 Package biblatex Info: Reference segment=0 on input line 78.
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
@@ -973,20 +981,24 @@ File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
  [2]
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 (Font)              scaled to size 14.4pt on input line 135.
+
+
+LaTeX Warning: Citation 'holman2002' on page 3 undefined on input line 164.
+
 LaTeX Font Info:    Trying to load font information for TS1+ntxtlf on input line 178.
- (c:/texlive/2023/texmf-dist/tex/latex/newtx/ts1ntxtlf.fd
+(c:/texlive/2023/texmf-dist/tex/latex/newtx/ts1ntxtlf.fd
 File: ts1ntxtlf.fd 2015/01/18 v1.0 fd file for TS1/ntxtlf
 )
 LaTeX Font Info:    Font shape `TS1/ntxtlf/m/n' will be
 (Font)              scaled to size 12.0pt on input line 178.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 10.95pt on input line 194.
-LaTeX Font Info:    Trying to load font information for T1+qhv on input line 194.
+(Font)              scaled to size 10.95pt on input line 193.
+LaTeX Font Info:    Trying to load font information for T1+qhv on input line 193.
  (c:/texlive/2023/texmf-dist/tex/latex/tex-gyre/t1qhv.fd
 File: t1qhv.fd 2009/09/25 v1.2 font definition file for T1/qhv
 )
 LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
-(Font)              scaled to size 10.29301pt on input line 194.
+(Font)              scaled to size 10.29301pt on input line 193.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1012,10 +1024,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [5]
-<./figures//fig1.jpg, id=211, 333.55385pt x 353.9377pt>
+<./figures//fig1.jpg, id=209, 333.55385pt x 353.9377pt>
 File: ./figures//fig1.jpg Graphic file (type jpg)
 <use ./figures//fig1.jpg>
-Package pdftex.def Info: ./figures//fig1.jpg  used on input line 314.
+Package pdftex.def Info: ./figures//fig1.jpg  used on input line 313.
 (pdftex.def)             Requested size: 341.43306pt x 362.31862pt.
 
 
@@ -1026,10 +1038,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [6 <./figures//fig1.jpg>]
-<./figures//fig2.jpg, id=220, 210.03468pt x 160.80075pt>
+<./figures//fig2.jpg, id=218, 210.03468pt x 160.80075pt>
 File: ./figures//fig2.jpg Graphic file (type jpg)
 <use ./figures//fig2.jpg>
-Package pdftex.def Info: ./figures//fig2.jpg  used on input line 356.
+Package pdftex.def Info: ./figures//fig2.jpg  used on input line 355.
 (pdftex.def)             Requested size: 227.62204pt x 174.2658pt.
 
 
@@ -1075,10 +1087,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [11]
-<./figures//fig24.jpg, id=263, 461.47406pt x 445.665pt>
+<./figures//fig24.jpg, id=261, 461.47406pt x 445.665pt>
 File: ./figures//fig24.jpg Graphic file (type jpg)
 <use ./figures//fig24.jpg>
-Package pdftex.def Info: ./figures//fig24.jpg  used on input line 640.
+Package pdftex.def Info: ./figures//fig24.jpg  used on input line 639.
 (pdftex.def)             Requested size: 341.43306pt x 329.73253pt.
 
 
@@ -1090,7 +1102,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [12 <./figures//fig24.jpg>]
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
-(Font)              scaled to size 12.0pt on input line 672.
+(Font)              scaled to size 12.0pt on input line 671.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1109,16 +1121,16 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [14]
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 24.88pt on input line 706.
+(Font)              scaled to size 24.88pt on input line 705.
 
-Underfull \hbox (badness 10000) in paragraph at lines 716--717
+Underfull \hbox (badness 10000) in paragraph at lines 715--716
 
  []
 
-Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 719.
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 718.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 10.0pt on input line 719.
-LaTeX Font Info:    Trying to load font information for T1+pcr on input line 719.
+(Font)              scaled to size 10.0pt on input line 718.
+LaTeX Font Info:    Trying to load font information for T1+pcr on input line 718.
 (c:/texlive/2023/texmf-dist/tex/latex/psnfss/t1pcr.fd
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 ) (./code/mcmthesis-matlab1.m) (./code/mcmthesis-sudoku.cpp
@@ -1162,18 +1174,18 @@ Package logreq Info: Writing requests to 'mcmthesis-demo.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 25048 strings out of 476025
- 423706 string characters out of 5794015
+ 25042 strings out of 476025
+ 423499 string characters out of 5794015
  1892382 words of memory out of 5000000
- 44940 multiletter control sequences out of 15000+600000
+ 44935 multiletter control sequences out of 15000+600000
  560531 words of font info for 87 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  90i,13n,102p,1208b,5176s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/tex-gyre/qhvr.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/tex-gyre/qtmr.pfb><c:/texlive/2023/texmf-dist/fonts/type1/urw/courier/ucrb8a.pfb><c:/texlive/2023/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/newtx/ztmb.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/newtx/ztmr.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/newtx/ztmri.pfb>
-Output written on mcmthesis-demo.pdf (17 pages, 411905 bytes).
+Output written on mcmthesis-demo.pdf (17 pages, 411582 bytes).
 PDF statistics:
- 450 PDF objects out of 1000 (max. 8388607)
- 396 compressed objects within 4 object streams
- 125 named destinations out of 1000 (max. 500000)
+ 448 PDF objects out of 1000 (max. 8388607)
+ 394 compressed objects within 4 object streams
+ 124 named destinations out of 1000 (max. 500000)
  280 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -19,47 +19,6 @@
 
 \refsection{0}
   \datalist[entry]{apa/apasortcite//global/global}
-    \entry{anderson2006}{book}{}
-      \name{author}{3}{}{%
-        {{un=0,uniquepart=base,hash=209eb9de46239f479f07336b55ed02b1}{%
-           family={Anderson},
-           familyi={A\bibinitperiod},
-           given={D.\bibnamedelimi A.},
-           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=1512cdbcb700ba76177f7a8b968cdf4a}{%
-           family={Tannehill},
-           familyi={T\bibinitperiod},
-           given={J.\bibnamedelimi C.},
-           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=2f8c00c1866b637a259eadddb9d66cb0}{%
-           family={Pletcher},
-           familyi={P\bibinitperiod},
-           given={R.\bibnamedelimi H.},
-           giveni={R\bibinitperiod\bibinitdelim H\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {Taylor \& Francis}%
-      }
-      \strng{namehash}{d1c5254f406ce93ce15111cc28399ba4}
-      \strng{fullhash}{c79cf52b2be76c7d6a820bd6b26fc2a7}
-      \strng{bibnamehash}{c79cf52b2be76c7d6a820bd6b26fc2a7}
-      \strng{authorbibnamehash}{c79cf52b2be76c7d6a820bd6b26fc2a7}
-      \strng{authornamehash}{d1c5254f406ce93ce15111cc28399ba4}
-      \strng{authorfullhash}{c79cf52b2be76c7d6a820bd6b26fc2a7}
-      \field{sortinit}{A}
-      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{edition}{2nd}
-      \field{title}{Computational Fluid Dynamics and Heat Transfer}
-      \field{year}{2006}
-    \endentry
     \entry{thesis2015}{thesis}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=2a78169cebccc5c7f36671f3c4b9ba6b}{%
@@ -91,36 +50,6 @@
       \field{title}{Thermal Modeling of Bath Water Systems}
       \field{type}{phdthesis}
       \field{year}{2015}
-    \endentry
-    \entry{kim2006}{article}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=c79b5d7b0f5c5d81140d31476919755f}{%
-           family={Kim},
-           familyi={K\bibinitperiod},
-           given={Gi-Beum},
-           giveni={G\bibinithyphendelim B\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{c79b5d7b0f5c5d81140d31476919755f}
-      \strng{fullhash}{c79b5d7b0f5c5d81140d31476919755f}
-      \strng{bibnamehash}{c79b5d7b0f5c5d81140d31476919755f}
-      \strng{authorbibnamehash}{c79b5d7b0f5c5d81140d31476919755f}
-      \strng{authornamehash}{c79b5d7b0f5c5d81140d31476919755f}
-      \strng{authorfullhash}{c79b5d7b0f5c5d81140d31476919755f}
-      \field{sortinit}{K}
-      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Hwahak konghak}
-      \field{number}{3}
-      \field{title}{Change of the Warm Water Temperature for the Development of Smart Healthecare Bathing System}
-      \field{volume}{44}
-      \field{year}{2006}
-      \field{pages}{270\bibrangedash 276}
-      \range{pages}{7}
     \endentry
     \entry{Liu02}{book}{}
       \name{author}{3}{}{%
@@ -195,31 +124,6 @@
       \field{year}{2018}
       \field{pages}{456\bibrangedash 467}
       \range{pages}{12}
-    \endentry
-    \entry{website2024}{misc}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=da5ed4b8a4c3328022a97830e6cce8c2}{%
-           family={Thompson},
-           familyi={T\bibinitperiod},
-           given={H.},
-           giveni={H\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{da5ed4b8a4c3328022a97830e6cce8c2}
-      \strng{fullhash}{da5ed4b8a4c3328022a97830e6cce8c2}
-      \strng{bibnamehash}{da5ed4b8a4c3328022a97830e6cce8c2}
-      \strng{authorbibnamehash}{da5ed4b8a4c3328022a97830e6cce8c2}
-      \strng{authornamehash}{da5ed4b8a4c3328022a97830e6cce8c2}
-      \strng{authorfullhash}{da5ed4b8a4c3328022a97830e6cce8c2}
-      \field{sortinit}{T}
-      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
-      \field{labeldatesource}{nodate}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{howpublished}{\url{https://www.example.com/advanced-cfd}}
-      \field{note}{Accessed: 2024-10-01}
-      \field{title}{Advanced CFD Techniques for Bath Water Simulation}
     \endentry
     \entry{patent2023}{patent}{}
       \name{author}{1}{}{%
@@ -250,47 +154,6 @@
     \endentry
   \enddatalist
   \datalist[entry]{apa/global//global/global}
-    \entry{anderson2006}{book}{}
-      \name{author}{3}{}{%
-        {{un=0,uniquepart=base,hash=209eb9de46239f479f07336b55ed02b1}{%
-           family={Anderson},
-           familyi={A\bibinitperiod},
-           given={D.\bibnamedelimi A.},
-           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=1512cdbcb700ba76177f7a8b968cdf4a}{%
-           family={Tannehill},
-           familyi={T\bibinitperiod},
-           given={J.\bibnamedelimi C.},
-           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=2f8c00c1866b637a259eadddb9d66cb0}{%
-           family={Pletcher},
-           familyi={P\bibinitperiod},
-           given={R.\bibnamedelimi H.},
-           giveni={R\bibinitperiod\bibinitdelim H\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {Taylor \& Francis}%
-      }
-      \strng{namehash}{d1c5254f406ce93ce15111cc28399ba4}
-      \strng{fullhash}{c79cf52b2be76c7d6a820bd6b26fc2a7}
-      \strng{bibnamehash}{c79cf52b2be76c7d6a820bd6b26fc2a7}
-      \strng{authorbibnamehash}{c79cf52b2be76c7d6a820bd6b26fc2a7}
-      \strng{authornamehash}{d1c5254f406ce93ce15111cc28399ba4}
-      \strng{authorfullhash}{c79cf52b2be76c7d6a820bd6b26fc2a7}
-      \field{sortinit}{A}
-      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{edition}{2nd}
-      \field{title}{Computational Fluid Dynamics and Heat Transfer}
-      \field{year}{2006}
-    \endentry
     \entry{thesis2015}{thesis}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=2a78169cebccc5c7f36671f3c4b9ba6b}{%
@@ -322,36 +185,6 @@
       \field{title}{Thermal Modeling of Bath Water Systems}
       \field{type}{phdthesis}
       \field{year}{2015}
-    \endentry
-    \entry{kim2006}{article}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=c79b5d7b0f5c5d81140d31476919755f}{%
-           family={Kim},
-           familyi={K\bibinitperiod},
-           given={Gi-Beum},
-           giveni={G\bibinithyphendelim B\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{c79b5d7b0f5c5d81140d31476919755f}
-      \strng{fullhash}{c79b5d7b0f5c5d81140d31476919755f}
-      \strng{bibnamehash}{c79b5d7b0f5c5d81140d31476919755f}
-      \strng{authorbibnamehash}{c79b5d7b0f5c5d81140d31476919755f}
-      \strng{authornamehash}{c79b5d7b0f5c5d81140d31476919755f}
-      \strng{authorfullhash}{c79b5d7b0f5c5d81140d31476919755f}
-      \field{sortinit}{K}
-      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Hwahak konghak}
-      \field{number}{3}
-      \field{title}{Change of the Warm Water Temperature for the Development of Smart Healthecare Bathing System}
-      \field{volume}{44}
-      \field{year}{2006}
-      \field{pages}{270\bibrangedash 276}
-      \range{pages}{7}
     \endentry
     \entry{Liu02}{book}{}
       \name{author}{3}{}{%
@@ -427,31 +260,6 @@
       \field{pages}{456\bibrangedash 467}
       \range{pages}{12}
     \endentry
-    \entry{website2024}{misc}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=da5ed4b8a4c3328022a97830e6cce8c2}{%
-           family={Thompson},
-           familyi={T\bibinitperiod},
-           given={H.},
-           giveni={H\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{da5ed4b8a4c3328022a97830e6cce8c2}
-      \strng{fullhash}{da5ed4b8a4c3328022a97830e6cce8c2}
-      \strng{bibnamehash}{da5ed4b8a4c3328022a97830e6cce8c2}
-      \strng{authorbibnamehash}{da5ed4b8a4c3328022a97830e6cce8c2}
-      \strng{authornamehash}{da5ed4b8a4c3328022a97830e6cce8c2}
-      \strng{authorfullhash}{da5ed4b8a4c3328022a97830e6cce8c2}
-      \field{sortinit}{T}
-      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
-      \field{labeldatesource}{nodate}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{howpublished}{\url{https://www.example.com/advanced-cfd}}
-      \field{note}{Accessed: 2024-10-01}
-      \field{title}{Advanced CFD Techniques for Bath Water Simulation}
-    \endentry
     \entry{patent2023}{patent}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=999b28e3ecc54fade907d529b77e2727}{%
@@ -480,7 +288,6 @@
       \field{year}{2023}
     \endentry
   \enddatalist
-  \missing{holman2002}
 \endrefsection
 \endinput
 

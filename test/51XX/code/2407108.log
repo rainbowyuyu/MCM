@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2025.1.20)  22 JAN 2025 21:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2025.1.20)  23 JAN 2025 21:42
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/admin/Desktop/GitHub/MCM/test/51XX/test.tex
-(c:/Users/admin/Desktop/GitHub/MCM/test/51XX/test.tex
+**c:/Users/admin/Desktop/GitHub/MCM/test/51XX/code/2407108.tex
+(c:/Users/admin/Desktop/GitHub/MCM/test/51XX/code/2407108.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-02-22> (c:/texlive/2023/texmf-dist/tex/latex/mcmthesis/mcmthesis.cls
 Document Class: mcmthesis 2021/01/05 v6.3.1 The Thesis Template Designed For MCM/ICM
@@ -496,13 +496,41 @@ File: svgnam.def 2022/06/12 v2.14 Predefined colors according to SVG 1.1 (UK)
 File: lstlang1.sty 2023/02/27 1.9 listings language file
 ) (c:/texlive/2023/texmf-dist/tex/latex/listings/lstmisc.sty
 File: lstmisc.sty 2023/02/27 1.9 (Carsten Heinz)
-)) (c:/texlive/2023/texmf-dist/tex/latex/newtx/newtxtext.sty
+)) (c:/texlive/2023/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2023/02/19 v1.6 Sub-captions (AR)
+ (c:/texlive/2023/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2023/03/12 v3.6j Customizing captions (AR)
+ (c:/texlive/2023/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2023/03/12 v2.4 caption3 kernel (AR)
+\caption@tempdima=\dimen193
+\captionmargin=\dimen194
+\caption@leftmargin=\dimen195
+\caption@rightmargin=\dimen196
+\caption@width=\dimen197
+\caption@indent=\dimen198
+\caption@parindent=\dimen199
+\caption@hangindent=\dimen256
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count314
+\c@continuedfloat=\count315
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: longtable package is loaded.
+ (c:/texlive/2023/texmf-dist/tex/latex/caption/ltcaption.sty
+Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
+))
+Package caption Info: New subtype `subfigure' on input line 239.
+\c@subfigure=\count316
+Package caption Info: New subtype `subtable' on input line 239.
+\c@subtable=\count317
+) (c:/texlive/2023/texmf-dist/tex/latex/newtx/newtxtext.sty
 Package: newtxtext 2022/02/28 v1.71(Michael Sharpe) latex and unicode latex support for TeXGyreTermesX
  `newtxtext' v1.71, 2022/02/28 Text macros taking advantage of TeXGyre Termes and its extensions (msharpe) (c:/texlive/2023/texmf-dist/tex/latex/base/textcomp.sty
 Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
 ) (c:/texlive/2023/texmf-dist/tex/generic/xstring/xstring.sty (c:/texlive/2023/texmf-dist/tex/generic/xstring/xstring.tex
-\integerpart=\count314
-\decimalpart=\count315
+\integerpart=\count318
+\decimalpart=\count319
 )
 Package: xstring 2023/01/14 v1.85 String manipulations (CT)
 ) (c:/texlive/2023/texmf-dist/tex/latex/carlisle/scalefnt.sty)
@@ -511,8 +539,8 @@ LaTeX Font Info:    Setting ntxTLF sub-encoding to TS1/0 on input line 21.
 LaTeX Font Info:    Setting ntxOsF sub-encoding to TS1/0 on input line 21.
 LaTeX Font Info:    Setting ntxTOsF sub-encoding to TS1/0 on input line 21.
  (c:/texlive/2023/texmf-dist/tex/generic/kastrup/binhex.tex)
-\ntx@tmpcnta=\count316
-\ntx@cnt=\count317
+\ntx@tmpcnta=\count320
+\ntx@cnt=\count321
 
 ntx@otftextfalse
 (c:/texlive/2023/texmf-dist/tex/latex/fontaxes/fontaxes.sty
@@ -533,53 +561,53 @@ LaTeX Info: Redefining \oldstylenums on input line 657.
 Package: biblatex 2023/03/05 v3.19 programmable bibliographies (PK/MW)
  (c:/texlive/2023/texmf-dist/tex/latex/logreq/logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count318
+\lrq@indent=\count322
  (c:/texlive/2023/texmf-dist/tex/latex/logreq/logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 ))
-\c@tabx@nest=\count319
-\c@listtotal=\count320
-\c@listcount=\count321
-\c@liststart=\count322
-\c@liststop=\count323
-\c@citecount=\count324
-\c@citetotal=\count325
-\c@multicitecount=\count326
-\c@multicitetotal=\count327
-\c@instcount=\count328
-\c@maxnames=\count329
-\c@minnames=\count330
-\c@maxitems=\count331
-\c@minitems=\count332
-\c@citecounter=\count333
-\c@maxcitecounter=\count334
-\c@savedcitecounter=\count335
-\c@uniquelist=\count336
-\c@uniquename=\count337
-\c@refsection=\count338
-\c@refsegment=\count339
-\c@maxextratitle=\count340
-\c@maxextratitleyear=\count341
-\c@maxextraname=\count342
-\c@maxextradate=\count343
-\c@maxextraalpha=\count344
-\c@abbrvpenalty=\count345
-\c@highnamepenalty=\count346
-\c@lownamepenalty=\count347
-\c@maxparens=\count348
-\c@parenlevel=\count349
-\blx@tempcnta=\count350
-\blx@tempcntb=\count351
-\blx@tempcntc=\count352
-\c@blx@maxsection=\count353
-\blx@maxsegment@0=\count354
-\blx@notetype=\count355
-\blx@parenlevel@text=\count356
-\blx@parenlevel@foot=\count357
-\blx@sectionciteorder@0=\count358
-\blx@sectionciteorderinternal@0=\count359
-\blx@entrysetcounter=\count360
-\blx@biblioinstance=\count361
+\c@tabx@nest=\count323
+\c@listtotal=\count324
+\c@listcount=\count325
+\c@liststart=\count326
+\c@liststop=\count327
+\c@citecount=\count328
+\c@citetotal=\count329
+\c@multicitecount=\count330
+\c@multicitetotal=\count331
+\c@instcount=\count332
+\c@maxnames=\count333
+\c@minnames=\count334
+\c@maxitems=\count335
+\c@minitems=\count336
+\c@citecounter=\count337
+\c@maxcitecounter=\count338
+\c@savedcitecounter=\count339
+\c@uniquelist=\count340
+\c@uniquename=\count341
+\c@refsection=\count342
+\c@refsegment=\count343
+\c@maxextratitle=\count344
+\c@maxextratitleyear=\count345
+\c@maxextraname=\count346
+\c@maxextradate=\count347
+\c@maxextraalpha=\count348
+\c@abbrvpenalty=\count349
+\c@highnamepenalty=\count350
+\c@lownamepenalty=\count351
+\c@maxparens=\count352
+\c@parenlevel=\count353
+\blx@tempcnta=\count354
+\blx@tempcntb=\count355
+\blx@tempcntc=\count356
+\c@blx@maxsection=\count357
+\blx@maxsegment@0=\count358
+\blx@notetype=\count359
+\blx@parenlevel@text=\count360
+\blx@parenlevel@foot=\count361
+\blx@sectionciteorder@0=\count362
+\blx@sectionciteorderinternal@0=\count363
+\blx@entrysetcounter=\count364
+\blx@biblioinstance=\count365
 \labelnumberwidth=\skip82
 \labelalphawidth=\skip83
 \biblabelsep=\skip84
@@ -591,9 +619,9 @@ File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 \blx@bcfin=\read3
 \blx@bcfout=\write4
 \blx@langwohyphens=\language87
-\c@mincomprange=\count362
-\c@maxcomprange=\count363
-\c@mincompwidth=\count364
+\c@mincomprange=\count366
+\c@maxcomprange=\count367
+\c@mincompwidth=\count368
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
  (c:/texlive/2023/texmf-dist/tex/latex/biblatex/blx-dm.def
@@ -606,84 +634,84 @@ File: apa.dbx 2022/06/22 v9.16 APA biblatex style data model
 )
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count365
-\c@savedafterword=\count366
-\c@annotator=\count367
-\c@savedannotator=\count368
-\c@author=\count369
-\c@savedauthor=\count370
-\c@bookauthor=\count371
-\c@savedbookauthor=\count372
-\c@commentator=\count373
-\c@savedcommentator=\count374
-\c@editor=\count375
-\c@savededitor=\count376
-\c@editora=\count377
-\c@savededitora=\count378
-\c@editorb=\count379
-\c@savededitorb=\count380
-\c@editorc=\count381
-\c@savededitorc=\count382
-\c@foreword=\count383
-\c@savedforeword=\count384
-\c@holder=\count385
-\c@savedholder=\count386
-\c@introduction=\count387
-\c@savedintroduction=\count388
-\c@namea=\count389
-\c@savednamea=\count390
-\c@nameb=\count391
-\c@savednameb=\count392
-\c@namec=\count393
-\c@savednamec=\count394
-\c@translator=\count395
-\c@savedtranslator=\count396
-\c@shortauthor=\count397
-\c@savedshortauthor=\count398
-\c@shorteditor=\count399
-\c@savedshorteditor=\count400
-\c@narrator=\count401
-\c@savednarrator=\count402
-\c@execproducer=\count403
-\c@savedexecproducer=\count404
-\c@execdirector=\count405
-\c@savedexecdirector=\count406
-\c@with=\count407
-\c@savedwith=\count408
-\c@labelname=\count409
-\c@savedlabelname=\count410
-\c@institution=\count411
-\c@savedinstitution=\count412
-\c@lista=\count413
-\c@savedlista=\count414
-\c@listb=\count415
-\c@savedlistb=\count416
-\c@listc=\count417
-\c@savedlistc=\count418
-\c@listd=\count419
-\c@savedlistd=\count420
-\c@liste=\count421
-\c@savedliste=\count422
-\c@listf=\count423
-\c@savedlistf=\count424
-\c@location=\count425
-\c@savedlocation=\count426
-\c@organization=\count427
-\c@savedorganization=\count428
-\c@origlocation=\count429
-\c@savedoriglocation=\count430
-\c@origpublisher=\count431
-\c@savedorigpublisher=\count432
-\c@publisher=\count433
-\c@savedpublisher=\count434
-\c@language=\count435
-\c@savedlanguage=\count436
-\c@origlanguage=\count437
-\c@savedoriglanguage=\count438
-\c@citation=\count439
-\c@savedcitation=\count440
-\c@pageref=\count441
-\c@savedpageref=\count442
+\c@afterword=\count369
+\c@savedafterword=\count370
+\c@annotator=\count371
+\c@savedannotator=\count372
+\c@author=\count373
+\c@savedauthor=\count374
+\c@bookauthor=\count375
+\c@savedbookauthor=\count376
+\c@commentator=\count377
+\c@savedcommentator=\count378
+\c@editor=\count379
+\c@savededitor=\count380
+\c@editora=\count381
+\c@savededitora=\count382
+\c@editorb=\count383
+\c@savededitorb=\count384
+\c@editorc=\count385
+\c@savededitorc=\count386
+\c@foreword=\count387
+\c@savedforeword=\count388
+\c@holder=\count389
+\c@savedholder=\count390
+\c@introduction=\count391
+\c@savedintroduction=\count392
+\c@namea=\count393
+\c@savednamea=\count394
+\c@nameb=\count395
+\c@savednameb=\count396
+\c@namec=\count397
+\c@savednamec=\count398
+\c@translator=\count399
+\c@savedtranslator=\count400
+\c@shortauthor=\count401
+\c@savedshortauthor=\count402
+\c@shorteditor=\count403
+\c@savedshorteditor=\count404
+\c@narrator=\count405
+\c@savednarrator=\count406
+\c@execproducer=\count407
+\c@savedexecproducer=\count408
+\c@execdirector=\count409
+\c@savedexecdirector=\count410
+\c@with=\count411
+\c@savedwith=\count412
+\c@labelname=\count413
+\c@savedlabelname=\count414
+\c@institution=\count415
+\c@savedinstitution=\count416
+\c@lista=\count417
+\c@savedlista=\count418
+\c@listb=\count419
+\c@savedlistb=\count420
+\c@listc=\count421
+\c@savedlistc=\count422
+\c@listd=\count423
+\c@savedlistd=\count424
+\c@liste=\count425
+\c@savedliste=\count426
+\c@listf=\count427
+\c@savedlistf=\count428
+\c@location=\count429
+\c@savedlocation=\count430
+\c@organization=\count431
+\c@savedorganization=\count432
+\c@origlocation=\count433
+\c@savedoriglocation=\count434
+\c@origpublisher=\count435
+\c@savedorigpublisher=\count436
+\c@publisher=\count437
+\c@savedpublisher=\count438
+\c@language=\count439
+\c@savedlanguage=\count440
+\c@origlanguage=\count441
+\c@savedoriglanguage=\count442
+\c@citation=\count443
+\c@savedcitation=\count444
+\c@pageref=\count445
+\c@savedpageref=\count446
 \shorthandwidth=\skip90
 \shortjournalwidth=\skip91
 \shortserieswidth=\skip92
@@ -707,19 +735,19 @@ Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
  (c:/texlive/2023/texmf-dist/tex/latex/biblatex/biblatex.def
 File: biblatex.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
-\c@textcitecount=\count443
-\c@textcitetotal=\count444
-\c@textcitemaxnames=\count445
-\c@biburlbigbreakpenalty=\count446
-\c@biburlbreakpenalty=\count447
-\c@biburlnumpenalty=\count448
-\c@biburlucpenalty=\count449
-\c@biburllcpenalty=\count450
+\c@textcitecount=\count447
+\c@textcitetotal=\count448
+\c@textcitemaxnames=\count449
+\c@biburlbigbreakpenalty=\count450
+\c@biburlbreakpenalty=\count451
+\c@biburlnumpenalty=\count452
+\c@biburlucpenalty=\count453
+\c@biburllcpenalty=\count454
 \biburlbigskip=\muskip18
 \biburlnumskip=\muskip19
 \biburlucskip=\muskip20
 \biburllcskip=\muskip21
-\c@smartand=\count451
+\c@smartand=\count455
 )
 Package biblatex Info: Trying to load bibliography style 'apa'...
 Package biblatex Info: ... file 'apa.bbx' found.
@@ -729,8 +757,8 @@ Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
  (c:/texlive/2023/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
 File: standard.bbx 2023/03/05 v3.19 biblatex bibliography style (PK/MW)
-\c@bbx:relatedcount=\count452
-\c@bbx:relatedtotal=\count453
+\c@bbx:relatedcount=\count456
+\c@bbx:relatedtotal=\count457
 )
 Package biblatex Info: Delimiter 'nameyeardelim' in context 'bib' already defined, overwriting.
 Package biblatex Info: Delimiter 'nameyeardelim' in context 'biblist' already defined, overwriting.
@@ -770,7 +798,7 @@ Package biblatex Info: Document encoding is UTF8 ....
 Package: expl3 2023-02-22 L3 programming layer (loader) 
  (c:/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count454
+\l__color_backend_stack_int=\count458
 \l__pdf_internal_box=\box64
 ))
 Package biblatex Info: ... and expl3
@@ -810,56 +838,84 @@ Package tocloft Info: The document has section divisions on input line 51.
 \cftbeforefigskip=\skip127
 \cftfigindent=\skip128
 \cftfignumwidth=\skip129
-\c@lofdepth=\count455
-\c@lotdepth=\count456
+\c@lofdepth=\count459
+\c@lotdepth=\count460
 \cftbeforelottitleskip=\skip130
 \cftafterlottitleskip=\skip131
 \cftbeforetabskip=\skip132
 \cfttabindent=\skip133
 \cfttabnumwidth=\skip134
 )
-LaTeX Font Info:    Trying to load font information for T1+ntxtlf on input line 78.
+LaTeX Font Info:    Trying to load font information for T1+ntxtlf on input line 22.
  (c:/texlive/2023/texmf-dist/tex/latex/newtx/t1ntxtlf.fd
 File: t1ntxtlf.fd 2021/05/24 v1.1 font definition file for T1/ntx/tlf
 )
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 12.0pt on input line 78.
-\@quotelevel=\count457
-\@quotereset=\count458
- (./test.aux)
-\openout1 = `test.aux'.
+(Font)              scaled to size 12.0pt on input line 22.
+\@quotelevel=\count461
+\@quotereset=\count462
+ (./2407108.aux
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 78.
-LaTeX Font Info:    ... okay on input line 78.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 78.
-LaTeX Font Info:    ... okay on input line 78.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 78.
-LaTeX Font Info:    ... okay on input line 78.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 78.
-LaTeX Font Info:    ... okay on input line 78.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 78.
-LaTeX Font Info:    ... okay on input line 78.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 78.
-LaTeX Font Info:    ... okay on input line 78.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 78.
-LaTeX Font Info:    ... okay on input line 78.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 78.
-LaTeX Font Info:    ... okay on input line 78.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 78.
-LaTeX Font Info:    ... okay on input line 78.
-\c@lstlisting=\count459
+LaTeX Warning: Label `fig5-6' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig5-6' multiply defined.
+
+
+LaTeX Warning: Label `fig:twoimages' multiply defined.
+
+
+LaTeX Warning: Label `fig7' multiply defined.
+
+
+LaTeX Warning: Label `fig:first' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:first' multiply defined.
+
+
+LaTeX Warning: Label `fig:second' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:second' multiply defined.
+
+
+LaTeX Warning: Label `fig:twoimages' multiply defined.
+
+)
+\openout1 = `2407108.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+\c@lstlisting=\count463
  (c:/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count460
-\scratchdimen=\dimen193
+\scratchcounter=\count464
+\scratchdimen=\dimen257
 \scratchbox=\box65
-\nofMPsegments=\count461
-\nofMParguments=\count462
+\nofMPsegments=\count465
+\nofMParguments=\count466
 \everyMPshowfont=\toks41
-\MPscratchCnt=\count463
-\MPscratchDim=\dimen194
-\MPnumerator=\count464
-\makeMPintoPDFobject=\count465
+\MPscratchCnt=\count467
+\MPscratchDim=\dimen258
+\MPnumerator=\count468
+\makeMPintoPDFobject=\count469
 \everyMPtoPDFconversion=\toks42
 )
 *geometry* driver: auto-detecting
@@ -896,13 +952,15 @@ LaTeX Font Info:    ... okay on input line 78.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring OFF on input line 78.
-(./test.out) (./test.out)
+Package hyperref Info: Link coloring OFF on input line 22.
+(./2407108.out) (./2407108.out)
 \@outlinefile=\write5
-\openout5 = `test.out'.
+\openout5 = `2407108.out'.
 
-\c@mv@tabular=\count466
-\c@mv@boldtabular=\count467
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+\c@mv@tabular=\count470
+\c@mv@boldtabular=\count471
 Package biblatex Info: Trying to load language 'english' -> 'english-apa'...
 Package biblatex Info: ... file 'english-apa.lbx' found.
  (c:/texlive/2023/texmf-dist/tex/latex/biblatex-apa/english-apa.lbx
@@ -928,27 +986,34 @@ File: english.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
-\openout4 = `test.bcf'.
+\openout4 = `2407108.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'test.bbl' found.
- (./test.bbl)
-Package biblatex Info: Reference section=0 on input line 78.
-Package biblatex Info: Reference segment=0 on input line 78.
+Package biblatex Info: ... file '2407108.bbl' found.
+ (./2407108.bbl)
+Package biblatex Info: Reference section=0 on input line 22.
+Package biblatex Info: Reference segment=0 on input line 22.
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 12.0pt on input line 90.
+(Font)              scaled to size 12.0pt on input line 73.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 20.0pt on input line 90.
+(Font)              scaled to size 20.0pt on input line 73.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 20.74pt on input line 90.
+(Font)              scaled to size 20.74pt on input line 73.
+LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
+(Font)              scaled to size 20.74pt on input line 73.
  [1
 
 {c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2023/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf.enc}]
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.73 \maketitle
+                [2]
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 17.28pt on input line 94.
+(Font)              scaled to size 17.28pt on input line 75.
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 17.28pt on input line 94.
- (./test.toc
+(Font)              scaled to size 17.28pt on input line 75.
+ (./2407108.toc
 LaTeX Font Info:    Trying to load font information for U+msa on input line 1.
  (c:/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
@@ -966,27 +1031,32 @@ LaTeX Font Info:    Trying to load font information for U+lasy on input line 1.
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 ))
 \tf@toc=\write6
-\openout6 = `test.toc'.
+\openout6 = `2407108.toc'.
 
  [1]
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 14.4pt on input line 100.
+(Font)              scaled to size 14.4pt on input line 82.
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 14.4pt on input line 100.
-LaTeX Font Info:    Trying to load font information for TS1+ntxtlf on input line 118.
+(Font)              scaled to size 14.4pt on input line 82.
+LaTeX Font Info:    Trying to load font information for TS1+ntxtlf on input line 110.
  (c:/texlive/2023/texmf-dist/tex/latex/newtx/ts1ntxtlf.fd
 File: ts1ntxtlf.fd 2015/01/18 v1.0 fd file for TS1/ntxtlf
 )
 LaTeX Font Info:    Font shape `TS1/ntxtlf/m/n' will be
-(Font)              scaled to size 12.0pt on input line 118.
+(Font)              scaled to size 12.0pt on input line 110.
+<C:/Users/admin/Desktop/GitHub/MCM/test/51XX/code/1.png, id=93, 720.291pt x 333.04425pt>
+File: C:/Users/admin/Desktop/GitHub/MCM/test/51XX/code/1.png Graphic file (type png)
+<use C:/Users/admin/Desktop/GitHub/MCM/test/51XX/code/1.png>
+Package pdftex.def Info: C:/Users/admin/Desktop/GitHub/MCM/test/51XX/code/1.png  used on input line 133.
+(pdftex.def)             Requested size: 341.43306pt x 157.86734pt.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 10.95pt on input line 182.
-LaTeX Font Info:    Trying to load font information for T1+qhv on input line 182.
+(Font)              scaled to size 10.95pt on input line 135.
+LaTeX Font Info:    Trying to load font information for T1+qhv on input line 135.
  (c:/texlive/2023/texmf-dist/tex/latex/tex-gyre/t1qhv.fd
 File: t1qhv.fd 2009/09/25 v1.2 font definition file for T1/qhv
 )
 LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
-(Font)              scaled to size 10.29301pt on input line 182.
+(Font)              scaled to size 10.29301pt on input line 135.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1003,9 +1073,18 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[3]
+[3 <c:/Users/admin/Desktop/GitHub/MCM/test/51XX/code/1.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 190--194
 
-LaTeX Warning: Reference `fig2' on page 4 undefined on input line 271.
+ []
+
+<C:/Users/admin/Desktop/GitHub/MCM/test/51XX/code/2.png, id=110, 328.8285pt x 216.81pt>
+File: C:/Users/admin/Desktop/GitHub/MCM/test/51XX/code/2.png Graphic file (type png)
+<use C:/Users/admin/Desktop/GitHub/MCM/test/51XX/code/2.png>
+Package pdftex.def Info: C:/Users/admin/Desktop/GitHub/MCM/test/51XX/code/2.png  used on input line 208.
+(pdftex.def)             Requested size: 341.43306pt x 225.1297pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1015,24 +1094,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [4]
+<C:/Users/admin/Desktop/GitHub/MCM/test/51XX/code/3.png, id=120, 337.26pt x 203.5605pt>
+File: C:/Users/admin/Desktop/GitHub/MCM/test/51XX/code/3.png Graphic file (type png)
+<use C:/Users/admin/Desktop/GitHub/MCM/test/51XX/code/3.png>
+Package pdftex.def Info: C:/Users/admin/Desktop/GitHub/MCM/test/51XX/code/3.png  used on input line 234.
+(pdftex.def)             Requested size: 341.43306pt x 206.08212pt.
 
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 13.59999pt, for example:
-(fancyhdr)                \setlength{\headheight}{13.59999pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[5]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 13.59999pt, for example:
-(fancyhdr)                \setlength{\headheight}{13.59999pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
-
-[6]
-LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
-(Font)              scaled to size 12.0pt on input line 458.
+LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1041,7 +1110,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[7]
+[5 <c:/Users/admin/Desktop/GitHub/MCM/test/51XX/code/2.png>]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
@@ -1049,27 +1118,45 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[8]
+[6 <c:/Users/admin/Desktop/GitHub/MCM/test/51XX/code/3.png>]
+<C:/Users/admin/Desktop/GitHub/MCM/test/51XX/code/4.png, id=136, 301.125pt x 160.80075pt>
+File: C:/Users/admin/Desktop/GitHub/MCM/test/51XX/code/4.png Graphic file (type png)
+<use C:/Users/admin/Desktop/GitHub/MCM/test/51XX/code/4.png>
+Package pdftex.def Info: C:/Users/admin/Desktop/GitHub/MCM/test/51XX/code/4.png  used on input line 301.
+(pdftex.def)             Requested size: 341.43306pt x 182.3431pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[7 <c:/Users/admin/Desktop/GitHub/MCM/test/51XX/code/4.png>]
+<C:/Users/admin/Desktop/GitHub/MCM/test/51XX/code/10.png, id=144, 628.14674pt x 344.487pt>
+File: C:/Users/admin/Desktop/GitHub/MCM/test/51XX/code/10.png Graphic file (type png)
+<use C:/Users/admin/Desktop/GitHub/MCM/test/51XX/code/10.png>
+Package pdftex.def Info: C:/Users/admin/Desktop/GitHub/MCM/test/51XX/code/10.png  used on input line 339.
+(pdftex.def)             Requested size: 341.43306pt x 187.2502pt.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 24.88pt on input line 485.
-LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 24.88pt on input line 485.
+(Font)              scaled to size 8.0pt on input line 344.
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 6.0pt on input line 344.
 
-Underfull \hbox (badness 10000) in paragraph at lines 489--491
-
+Overfull \hbox (415.09962pt too wide) detected at line 346
+[][][][][] \OML/cmm/m/it/12 W \OT1/cmr/m/n/12 = (0\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 275942\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 0\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 8 \OMS/cmsy/m/n/12 ^^B \OT1/cmr/m/n/12 0\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 168837\OML/cmm/m/it/12 ; \OMS/cmsy/m/n/12 ^^@\OT1/cmr/m/n/12 0\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 139420\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 0\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 108685\OML/cmm/m/it/12 ; \OMS/cmsy/m/n/12 ^^@\OT1/cmr/m/n/12 0\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 095252\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 0\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 077130\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 0\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 074068\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 0\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 074068\OML/cmm/m/it/12 ; \OMS/cmsy/m/n/12 ^^@\OT1/cmr/m/n/12 0\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 021428)
  []
 
-Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 493.
-LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 10.0pt on input line 493.
-LaTeX Font Info:    Trying to load font information for T1+pcr on input line 493.
-(c:/texlive/2023/texmf-dist/tex/latex/psnfss/t1pcr.fd
-File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
-) (./code/mcmthesis-matlab1.m) (./code/mcmthesis-sudoku.cpp
-LaTeX Font Info:    Trying to load font information for TS1+pcr on input line 25.
- (c:/texlive/2023/texmf-dist/tex/latex/psnfss/ts1pcr.fd
-File: ts1pcr.fd 2001/06/04 font definitions for TS1/pcr.
-)
+<C:/Users/admin/Desktop/GitHub/MCM/test/51XX/code/6.png, id=145, 290.2845pt x 213.79875pt>
+File: C:/Users/admin/Desktop/GitHub/MCM/test/51XX/code/6.png Graphic file (type png)
+<use C:/Users/admin/Desktop/GitHub/MCM/test/51XX/code/6.png>
+Package pdftex.def Info: C:/Users/admin/Desktop/GitHub/MCM/test/51XX/code/6.png  used on input line 356.
+(pdftex.def)             Requested size: 211.38832pt x 155.6901pt.
+<C:/Users/admin/Desktop/GitHub/MCM/test/51XX/code/6.2.png, id=146, 302.3295pt x 218.0145pt>
+File: C:/Users/admin/Desktop/GitHub/MCM/test/51XX/code/6.2.png Graphic file (type png)
+<use C:/Users/admin/Desktop/GitHub/MCM/test/51XX/code/6.2.png>
+Package pdftex.def Info: C:/Users/admin/Desktop/GitHub/MCM/test/51XX/code/6.2.png  used on input line 363.
+(pdftex.def)             Requested size: 211.38832pt x 152.43279pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
@@ -1077,7 +1164,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[9{c:/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc}])
+[8 <c:/Users/admin/Desktop/GitHub/MCM/test/51XX/code/10.png>]
+<C:/Users/admin/Desktop/GitHub/MCM/test/51XX/code/7.png, id=161, 272.217pt x 200.54926pt>
+File: C:/Users/admin/Desktop/GitHub/MCM/test/51XX/code/7.png Graphic file (type png)
+<use C:/Users/admin/Desktop/GitHub/MCM/test/51XX/code/7.png>
+Package pdftex.def Info: C:/Users/admin/Desktop/GitHub/MCM/test/51XX/code/7.png  used on input line 376.
+(pdftex.def)             Requested size: 234.8775pt x 173.04735pt.
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
@@ -1085,33 +1178,99 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[10]
-\c@lastpage=\count468
- [11] 
+[9 <c:/Users/admin/Desktop/GitHub/MCM/test/51XX/code/6.png> <c:/Users/admin/Desktop/GitHub/MCM/test/51XX/code/6.2.png> <c:/Users/admin/Desktop/GitHub/MCM/test/51XX/code/7.png>]
+File: C:/Users/admin/Desktop/GitHub/MCM/test/51XX/code/6.png Graphic file (type png)
+<use C:/Users/admin/Desktop/GitHub/MCM/test/51XX/code/6.png>
+Package pdftex.def Info: C:/Users/admin/Desktop/GitHub/MCM/test/51XX/code/6.png  used on input line 386.
+(pdftex.def)             Requested size: 234.8775pt x 172.99008pt.
+<C:/Users/admin/Desktop/GitHub/MCM/test/51XX/code/11.1.png, id=172, 151.16475pt x 117.43875pt>
+File: C:/Users/admin/Desktop/GitHub/MCM/test/51XX/code/11.1.png Graphic file (type png)
+<use C:/Users/admin/Desktop/GitHub/MCM/test/51XX/code/11.1.png>
+Package pdftex.def Info: C:/Users/admin/Desktop/GitHub/MCM/test/51XX/code/11.1.png  used on input line 397.
+(pdftex.def)             Requested size: 142.27017pt x 113.8115pt.
+<C:/Users/admin/Desktop/GitHub/MCM/test/51XX/code/11.2.png, id=173, 274.02374pt x 209.583pt>
+File: C:/Users/admin/Desktop/GitHub/MCM/test/51XX/code/11.2.png Graphic file (type png)
+<use C:/Users/admin/Desktop/GitHub/MCM/test/51XX/code/11.2.png>
+Package pdftex.def Info: C:/Users/admin/Desktop/GitHub/MCM/test/51XX/code/11.2.png  used on input line 402.
+(pdftex.def)             Requested size: 142.26738pt x 113.81271pt.
+<C:/Users/admin/Desktop/GitHub/MCM/test/51XX/code/11.3.png, id=174, 269.808pt x 207.77625pt>
+File: C:/Users/admin/Desktop/GitHub/MCM/test/51XX/code/11.3.png Graphic file (type png)
+<use C:/Users/admin/Desktop/GitHub/MCM/test/51XX/code/11.3.png>
+Package pdftex.def Info: C:/Users/admin/Desktop/GitHub/MCM/test/51XX/code/11.3.png  used on input line 406.
+(pdftex.def)             Requested size: 142.26886pt x 113.81123pt.
+<C:/Users/admin/Desktop/GitHub/MCM/test/51XX/code/11.4.png, id=175, 283.0575pt x 205.36725pt>
+File: C:/Users/admin/Desktop/GitHub/MCM/test/51XX/code/11.4.png Graphic file (type png)
+<use C:/Users/admin/Desktop/GitHub/MCM/test/51XX/code/11.4.png>
+Package pdftex.def Info: C:/Users/admin/Desktop/GitHub/MCM/test/51XX/code/11.4.png  used on input line 410.
+(pdftex.def)             Requested size: 142.26695pt x 113.81409pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[10 <c:/Users/admin/Desktop/GitHub/MCM/test/51XX/code/11.1.png> <c:/Users/admin/Desktop/GitHub/MCM/test/51XX/code/11.2.png> <c:/Users/admin/Desktop/GitHub/MCM/test/51XX/code/11.3.png> <c:/Users/admin/Desktop/GitHub/MCM/test/51XX/code/11.4.png>]
+<C:/Users/admin/Desktop/GitHub/MCM/test/51XX/code/12.png, id=187, 423.38174pt x 286.671pt>
+File: C:/Users/admin/Desktop/GitHub/MCM/test/51XX/code/12.png Graphic file (type png)
+<use C:/Users/admin/Desktop/GitHub/MCM/test/51XX/code/12.png>
+Package pdftex.def Info: C:/Users/admin/Desktop/GitHub/MCM/test/51XX/code/12.png  used on input line 436.
+(pdftex.def)             Requested size: 234.8775pt x 159.03429pt.
+<C:/Users/admin/Desktop/GitHub/MCM/test/51XX/code/13.1.png, id=188, 187.902pt x 260.172pt>
+File: C:/Users/admin/Desktop/GitHub/MCM/test/51XX/code/13.1.png Graphic file (type png)
+<use C:/Users/admin/Desktop/GitHub/MCM/test/51XX/code/13.1.png>
+Package pdftex.def Info: C:/Users/admin/Desktop/GitHub/MCM/test/51XX/code/13.1.png  used on input line 469.
+(pdftex.def)             Requested size: 199.17802pt x 284.54254pt.
+<C:/Users/admin/Desktop/GitHub/MCM/test/51XX/code/13.3.png, id=189, 168.63pt x 258.9675pt>
+File: C:/Users/admin/Desktop/GitHub/MCM/test/51XX/code/13.3.png Graphic file (type png)
+<use C:/Users/admin/Desktop/GitHub/MCM/test/51XX/code/13.3.png>
+Package pdftex.def Info: C:/Users/admin/Desktop/GitHub/MCM/test/51XX/code/13.3.png  used on input line 475.
+(pdftex.def)             Requested size: 199.17464pt x 284.55688pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[11 <c:/Users/admin/Desktop/GitHub/MCM/test/51XX/code/12.png>]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[12 <c:/Users/admin/Desktop/GitHub/MCM/test/51XX/code/13.1.png> <c:/Users/admin/Desktop/GitHub/MCM/test/51XX/code/13.3.png>] 
 enddocument/afterlastpage: lastpage setting LastPage.
-(./test.aux)
+(./2407108.aux)
 
-LaTeX Warning: There were undefined references.
+LaTeX Warning: There were multiply-defined labels.
 
-Package rerunfilecheck Info: File `test.out' has not changed.
-(rerunfilecheck)             Checksum: C0C11ABFA3DA408DD36F6E4FCA688512;6072.
-Package logreq Info: Writing requests to 'test.run.xml'.
-\openout1 = `test.run.xml'.
+Package rerunfilecheck Info: File `2407108.out' has not changed.
+(rerunfilecheck)             Checksum: 9273EC6BE886D05DB7E611782E7B7FDF;2461.
+Package logreq Info: Writing requests to '2407108.run.xml'.
+\openout1 = `2407108.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 24982 strings out of 476025
- 422072 string characters out of 5794015
- 1893382 words of memory out of 5000000
- 44890 multiletter control sequences out of 15000+600000
- 563339 words of font info for 88 fonts, out of 8000000 for 9000
+ 25204 strings out of 476025
+ 439567 string characters out of 5794015
+ 1864382 words of memory out of 5000000
+ 45170 multiletter control sequences out of 15000+600000
+ 559012 words of font info for 82 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 90i,13n,102p,1193b,5176s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/tex-gyre/qhvr.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/tex-gyre/qtmr.pfb><c:/texlive/2023/texmf-dist/fonts/type1/urw/courier/ucrb8a.pfb><c:/texlive/2023/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/newtx/ztmb.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/newtx/ztmr.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/newtx/ztmri.pfb>
-Output written on test.pdf (12 pages, 255936 bytes).
+ 90i,13n,131p,1201b,5174s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/tex-gyre/qhvr.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/tex-gyre/qtmr.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/newtx/ztmb.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/newtx/ztmr.pfb>
+Output written on 2407108.pdf (14 pages, 2025811 bytes).
 PDF statistics:
- 407 PDF objects out of 1000 (max. 8388607)
- 361 compressed objects within 4 object streams
- 113 named destinations out of 1000 (max. 500000)
- 265 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 268 PDF objects out of 1000 (max. 8388607)
+ 200 compressed objects within 2 object streams
+ 48 named destinations out of 1000 (max. 500000)
+ 196 words of extra memory for PDF output out of 10000 (max. 10000000)
 
