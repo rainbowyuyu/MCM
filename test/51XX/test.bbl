@@ -1,0 +1,375 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/apasortcite//global/global}
+    \entry{Dyson2006}{book}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=209eb9de46239f479f07336b55ed02b1}{%
+           family={Anderson},
+           familyi={A\bibinitperiod},
+           given={D.\bibnamedelimi A.},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1512cdbcb700ba76177f7a8b968cdf4a}{%
+           family={Tannehill},
+           familyi={T\bibinitperiod},
+           given={J.\bibnamedelimi C.},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2f8c00c1866b637a259eadddb9d66cb0}{%
+           family={Pletcher},
+           familyi={P\bibinitperiod},
+           given={R.\bibnamedelimi H.},
+           giveni={R\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor \& Francis}%
+      }
+      \strng{namehash}{d1c5254f406ce93ce15111cc28399ba4}
+      \strng{fullhash}{c79cf52b2be76c7d6a820bd6b26fc2a7}
+      \strng{bibnamehash}{c79cf52b2be76c7d6a820bd6b26fc2a7}
+      \strng{authorbibnamehash}{c79cf52b2be76c7d6a820bd6b26fc2a7}
+      \strng{authornamehash}{d1c5254f406ce93ce15111cc28399ba4}
+      \strng{authorfullhash}{c79cf52b2be76c7d6a820bd6b26fc2a7}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2nd}
+      \field{title}{Computational Fluid Dynamics and Heat Transfer}
+      \field{year}{2006}
+    \endentry
+    \entry{thesis2015}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2a78169cebccc5c7f36671f3c4b9ba6b}{%
+           family={Brown},
+           familyi={B\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {University of Technology}%
+      }
+      \list{location}{1}{%
+        {City}%
+      }
+      \strng{namehash}{2a78169cebccc5c7f36671f3c4b9ba6b}
+      \strng{fullhash}{2a78169cebccc5c7f36671f3c4b9ba6b}
+      \strng{bibnamehash}{2a78169cebccc5c7f36671f3c4b9ba6b}
+      \strng{authorbibnamehash}{2a78169cebccc5c7f36671f3c4b9ba6b}
+      \strng{authornamehash}{2a78169cebccc5c7f36671f3c4b9ba6b}
+      \strng{authorfullhash}{2a78169cebccc5c7f36671f3c4b9ba6b}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Thermal Modeling of Bath Water Systems}
+      \field{type}{phdthesis}
+      \field{year}{2015}
+    \endentry
+    \entry{Liu02}{book}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=b8391669ee4686c33c1f99b2d5202231}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Weiguo},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=341ab14e1b1490578a9383e55a0b5063}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Zhaoping},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5d6038c292fe254b531b0db4830097e3}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Yin},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Beijing}%
+      }
+      \list{publisher}{1}{%
+        {Higher education press}%
+      }
+      \strng{namehash}{f5e914b2050629dc2196b86331a26b31}
+      \strng{fullhash}{323c09b20451b6babc9b80a9b73e2eb8}
+      \strng{bibnamehash}{323c09b20451b6babc9b80a9b73e2eb8}
+      \strng{authorbibnamehash}{323c09b20451b6babc9b80a9b73e2eb8}
+      \strng{authornamehash}{f5e914b2050629dc2196b86331a26b31}
+      \strng{authorfullhash}{323c09b20451b6babc9b80a9b73e2eb8}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{In Chinese}
+      \field{title}{Matlab program design and application}
+      \field{year}{2002}
+    \endentry
+    \entry{evaporation2018}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b18f02a97cf23823923df8c18784f5df}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b18f02a97cf23823923df8c18784f5df}
+      \strng{fullhash}{b18f02a97cf23823923df8c18784f5df}
+      \strng{bibnamehash}{b18f02a97cf23823923df8c18784f5df}
+      \strng{authorbibnamehash}{b18f02a97cf23823923df8c18784f5df}
+      \strng{authornamehash}{b18f02a97cf23823923df8c18784f5df}
+      \strng{authorfullhash}{b18f02a97cf23823923df8c18784f5df}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Thermal Science and Engineering}
+      \field{number}{4}
+      \field{title}{Evaporation Effects in Bath Water Temperature Regulation}
+      \field{volume}{30}
+      \field{year}{2018}
+      \field{pages}{456\bibrangedash 467}
+      \range{pages}{12}
+    \endentry
+    \entry{patent2023}{patent}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=999b28e3ecc54fade907d529b77e2727}{%
+           family={Wilson},
+           familyi={W\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{999b28e3ecc54fade907d529b77e2727}
+      \strng{fullhash}{999b28e3ecc54fade907d529b77e2727}
+      \strng{bibnamehash}{999b28e3ecc54fade907d529b77e2727}
+      \strng{authorbibnamehash}{999b28e3ecc54fade907d529b77e2727}
+      \strng{authornamehash}{999b28e3ecc54fade907d529b77e2727}
+      \strng{authorfullhash}{999b28e3ecc54fade907d529b77e2727}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{1234567}
+      \field{title}{Smart Bath Water Temperature Control System}
+      \field{type}{US Patent}
+      \field{year}{2023}
+    \endentry
+  \enddatalist
+  \datalist[entry]{apa/global//global/global}
+    \entry{Dyson2006}{book}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=209eb9de46239f479f07336b55ed02b1}{%
+           family={Anderson},
+           familyi={A\bibinitperiod},
+           given={D.\bibnamedelimi A.},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1512cdbcb700ba76177f7a8b968cdf4a}{%
+           family={Tannehill},
+           familyi={T\bibinitperiod},
+           given={J.\bibnamedelimi C.},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2f8c00c1866b637a259eadddb9d66cb0}{%
+           family={Pletcher},
+           familyi={P\bibinitperiod},
+           given={R.\bibnamedelimi H.},
+           giveni={R\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor \& Francis}%
+      }
+      \strng{namehash}{d1c5254f406ce93ce15111cc28399ba4}
+      \strng{fullhash}{c79cf52b2be76c7d6a820bd6b26fc2a7}
+      \strng{bibnamehash}{c79cf52b2be76c7d6a820bd6b26fc2a7}
+      \strng{authorbibnamehash}{c79cf52b2be76c7d6a820bd6b26fc2a7}
+      \strng{authornamehash}{d1c5254f406ce93ce15111cc28399ba4}
+      \strng{authorfullhash}{c79cf52b2be76c7d6a820bd6b26fc2a7}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2nd}
+      \field{title}{Computational Fluid Dynamics and Heat Transfer}
+      \field{year}{2006}
+    \endentry
+    \entry{thesis2015}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2a78169cebccc5c7f36671f3c4b9ba6b}{%
+           family={Brown},
+           familyi={B\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {University of Technology}%
+      }
+      \list{location}{1}{%
+        {City}%
+      }
+      \strng{namehash}{2a78169cebccc5c7f36671f3c4b9ba6b}
+      \strng{fullhash}{2a78169cebccc5c7f36671f3c4b9ba6b}
+      \strng{bibnamehash}{2a78169cebccc5c7f36671f3c4b9ba6b}
+      \strng{authorbibnamehash}{2a78169cebccc5c7f36671f3c4b9ba6b}
+      \strng{authornamehash}{2a78169cebccc5c7f36671f3c4b9ba6b}
+      \strng{authorfullhash}{2a78169cebccc5c7f36671f3c4b9ba6b}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Thermal Modeling of Bath Water Systems}
+      \field{type}{phdthesis}
+      \field{year}{2015}
+    \endentry
+    \entry{Liu02}{book}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=b8391669ee4686c33c1f99b2d5202231}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Weiguo},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=341ab14e1b1490578a9383e55a0b5063}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Zhaoping},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5d6038c292fe254b531b0db4830097e3}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Yin},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Beijing}%
+      }
+      \list{publisher}{1}{%
+        {Higher education press}%
+      }
+      \strng{namehash}{f5e914b2050629dc2196b86331a26b31}
+      \strng{fullhash}{323c09b20451b6babc9b80a9b73e2eb8}
+      \strng{bibnamehash}{323c09b20451b6babc9b80a9b73e2eb8}
+      \strng{authorbibnamehash}{323c09b20451b6babc9b80a9b73e2eb8}
+      \strng{authornamehash}{f5e914b2050629dc2196b86331a26b31}
+      \strng{authorfullhash}{323c09b20451b6babc9b80a9b73e2eb8}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{In Chinese}
+      \field{title}{Matlab program design and application}
+      \field{year}{2002}
+    \endentry
+    \entry{evaporation2018}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b18f02a97cf23823923df8c18784f5df}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b18f02a97cf23823923df8c18784f5df}
+      \strng{fullhash}{b18f02a97cf23823923df8c18784f5df}
+      \strng{bibnamehash}{b18f02a97cf23823923df8c18784f5df}
+      \strng{authorbibnamehash}{b18f02a97cf23823923df8c18784f5df}
+      \strng{authornamehash}{b18f02a97cf23823923df8c18784f5df}
+      \strng{authorfullhash}{b18f02a97cf23823923df8c18784f5df}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Thermal Science and Engineering}
+      \field{number}{4}
+      \field{title}{Evaporation Effects in Bath Water Temperature Regulation}
+      \field{volume}{30}
+      \field{year}{2018}
+      \field{pages}{456\bibrangedash 467}
+      \range{pages}{12}
+    \endentry
+    \entry{patent2023}{patent}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=999b28e3ecc54fade907d529b77e2727}{%
+           family={Wilson},
+           familyi={W\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{999b28e3ecc54fade907d529b77e2727}
+      \strng{fullhash}{999b28e3ecc54fade907d529b77e2727}
+      \strng{bibnamehash}{999b28e3ecc54fade907d529b77e2727}
+      \strng{authorbibnamehash}{999b28e3ecc54fade907d529b77e2727}
+      \strng{authornamehash}{999b28e3ecc54fade907d529b77e2727}
+      \strng{authorfullhash}{999b28e3ecc54fade907d529b77e2727}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{1234567}
+      \field{title}{Smart Bath Water Temperature Control System}
+      \field{type}{US Patent}
+      \field{year}{2023}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

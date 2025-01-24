@@ -92,35 +92,6 @@
       \field{type}{phdthesis}
       \field{year}{2015}
     \endentry
-    \entry{holman2002}{article}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=3091287cd9be8c1e290e9746f70a9059}{%
-           family={Holman},
-           familyi={H\bibinitperiod},
-           given={J.\bibnamedelimi P.},
-           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{location}{1}{%
-        {New York}%
-      }
-      \strng{namehash}{3091287cd9be8c1e290e9746f70a9059}
-      \strng{fullhash}{3091287cd9be8c1e290e9746f70a9059}
-      \strng{bibnamehash}{3091287cd9be8c1e290e9746f70a9059}
-      \strng{authorbibnamehash}{3091287cd9be8c1e290e9746f70a9059}
-      \strng{authornamehash}{3091287cd9be8c1e290e9746f70a9059}
-      \strng{authorfullhash}{3091287cd9be8c1e290e9746f70a9059}
-      \field{sortinit}{H}
-      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{McGraw-Hill}
-      \field{title}{Heat Transfer (9th ed.)}
-      \field{year}{2002}
-    \endentry
     \entry{kim2006}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=c79b5d7b0f5c5d81140d31476919755f}{%
@@ -352,35 +323,6 @@
       \field{type}{phdthesis}
       \field{year}{2015}
     \endentry
-    \entry{holman2002}{article}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=3091287cd9be8c1e290e9746f70a9059}{%
-           family={Holman},
-           familyi={H\bibinitperiod},
-           given={J.\bibnamedelimi P.},
-           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{location}{1}{%
-        {New York}%
-      }
-      \strng{namehash}{3091287cd9be8c1e290e9746f70a9059}
-      \strng{fullhash}{3091287cd9be8c1e290e9746f70a9059}
-      \strng{bibnamehash}{3091287cd9be8c1e290e9746f70a9059}
-      \strng{authorbibnamehash}{3091287cd9be8c1e290e9746f70a9059}
-      \strng{authornamehash}{3091287cd9be8c1e290e9746f70a9059}
-      \strng{authorfullhash}{3091287cd9be8c1e290e9746f70a9059}
-      \field{sortinit}{H}
-      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{McGraw-Hill}
-      \field{title}{Heat Transfer (9th ed.)}
-      \field{year}{2002}
-    \endentry
     \entry{kim2006}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=c79b5d7b0f5c5d81140d31476919755f}{%
@@ -538,6 +480,7 @@
       \field{year}{2023}
     \endentry
   \enddatalist
+  \missing{holman2002}
 \endrefsection
 \endinput
 
