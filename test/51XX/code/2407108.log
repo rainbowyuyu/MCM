@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2025.1.20)  23 JAN 2025 21:42
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2025.1.20)  24 JAN 2025 13:41
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -856,10 +856,16 @@ LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 \@quotereset=\count462
  (./2407108.aux
 
-LaTeX Warning: Label `fig5-6' multiply defined.
+LaTeX Warning: Label `fig:first' multiply defined.
 
 
-LaTeX Warning: Label `sub@fig5-6' multiply defined.
+LaTeX Warning: Label `sub@fig:first' multiply defined.
+
+
+LaTeX Warning: Label `fig:second' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:second' multiply defined.
 
 
 LaTeX Warning: Label `fig:twoimages' multiply defined.
@@ -1259,10 +1265,10 @@ Package logreq Info: Writing requests to '2407108.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 25204 strings out of 476025
- 439567 string characters out of 5794015
+ 25202 strings out of 476025
+ 439547 string characters out of 5794015
  1864382 words of memory out of 5000000
- 45170 multiletter control sequences out of 15000+600000
+ 45168 multiletter control sequences out of 15000+600000
  559012 words of font info for 82 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  90i,13n,131p,1201b,5174s stack positions out of 10000i,1000n,20000p,200000b,200000s

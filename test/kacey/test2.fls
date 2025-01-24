@@ -1,8 +1,16 @@
+<<<<<<< HEAD
 PWD c:/Users/admin/Desktop/GitHub/MCM/test/kacey
 INPUT c:/texlive/2023/texmf.cnf
 INPUT c:/texlive/2023/texmf-dist/web2c/texmf.cnf
 INPUT c:/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt
 INPUT c:/Users/admin/Desktop/GitHub/MCM/test/kacey/test2.tex
+=======
+PWD d:/github/MCM/test/kacey
+INPUT c:/texlive/2024/texmf.cnf
+INPUT c:/texlive/2024/texmf-dist/web2c/texmf.cnf
+INPUT c:/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT d:/github/MCM/test/kacey/test2.tex
+>>>>>>> 7a325c58be18e3d2931753810bbcd7dafb6a966c
 OUTPUT test2.log
 INPUT c:/texlive/2023/texmf-dist/tex/latex/base/article.cls
 INPUT c:/texlive/2023/texmf-dist/tex/latex/base/article.cls
@@ -499,6 +507,7 @@ INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/newtx/ntxexa.tfm
 INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/newtx/ntx-Bold-tlf-ot1.tfm
 INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/newtx/ntx-Regular-tlf-ot1.tfm
 OUTPUT test2.pdf
+<<<<<<< HEAD
 INPUT c:/texlive/2023/texmf-dist/fonts/vf/public/newtx/ntx-Bold-tlf-ot1.vf
 INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/newtx/txbmiaX.tfm
 INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/newtx/ntx-Bold-tlf-ot1r.tfm
@@ -524,3 +533,19 @@ INPUT c:/texlive/2023/texmf-dist/fonts/type1/public/newtx/NewTXMI.pfb
 INPUT c:/texlive/2023/texmf-dist/fonts/type1/public/newtx/txsys.pfb
 INPUT c:/texlive/2023/texmf-dist/fonts/type1/public/newtx/ztmb.pfb
 INPUT c:/texlive/2023/texmf-dist/fonts/type1/public/newtx/ztmr.pfb
+=======
+INPUT c:/texlive/2024/texmf-dist/fonts/vf/public/newtx/ntx-Bold-tlf-ot1.vf
+INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/newtx/txbmiaX.tfm
+INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/newtx/ntx-Bold-tlf-ot1r.tfm
+INPUT c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map
+INPUT c:/texlive/2024/texmf-dist/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc
+INPUT c:/texlive/2024/texmf-dist/fonts/vf/public/newtx/ntx-Regular-tlf-ot1.vf
+INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/newtx/txmiaX.tfm
+INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/newtx/ntx-Regular-tlf-ot1r.tfm
+INPUT c:/texlive/2024/texmf-dist/fonts/vf/public/newtx/ntx-Regular-tlf-ot1.vf
+INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/newtx/txmiaX.tfm
+INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/newtx/ntx-Regular-tlf-ot1r.tfm
+INPUT test2.aux
+INPUT c:/texlive/2024/texmf-dist/fonts/type1/public/newtx/ztmb.pfb
+INPUT c:/texlive/2024/texmf-dist/fonts/type1/public/newtx/ztmr.pfb
+>>>>>>> 7a325c58be18e3d2931753810bbcd7dafb6a966c

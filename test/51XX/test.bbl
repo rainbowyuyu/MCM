@@ -19,6 +19,47 @@
 
 \refsection{0}
   \datalist[entry]{apa/apasortcite//global/global}
+    \entry{Dyson2006}{book}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=209eb9de46239f479f07336b55ed02b1}{%
+           family={Anderson},
+           familyi={A\bibinitperiod},
+           given={D.\bibnamedelimi A.},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1512cdbcb700ba76177f7a8b968cdf4a}{%
+           family={Tannehill},
+           familyi={T\bibinitperiod},
+           given={J.\bibnamedelimi C.},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2f8c00c1866b637a259eadddb9d66cb0}{%
+           family={Pletcher},
+           familyi={P\bibinitperiod},
+           given={R.\bibnamedelimi H.},
+           giveni={R\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor \& Francis}%
+      }
+      \strng{namehash}{d1c5254f406ce93ce15111cc28399ba4}
+      \strng{fullhash}{c79cf52b2be76c7d6a820bd6b26fc2a7}
+      \strng{bibnamehash}{c79cf52b2be76c7d6a820bd6b26fc2a7}
+      \strng{authorbibnamehash}{c79cf52b2be76c7d6a820bd6b26fc2a7}
+      \strng{authornamehash}{d1c5254f406ce93ce15111cc28399ba4}
+      \strng{authorfullhash}{c79cf52b2be76c7d6a820bd6b26fc2a7}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2nd}
+      \field{title}{Computational Fluid Dynamics and Heat Transfer}
+      \field{year}{2006}
+    \endentry
     \entry{thesis2015}{thesis}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=2a78169cebccc5c7f36671f3c4b9ba6b}{%
@@ -154,6 +195,47 @@
     \endentry
   \enddatalist
   \datalist[entry]{apa/global//global/global}
+    \entry{Dyson2006}{book}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=209eb9de46239f479f07336b55ed02b1}{%
+           family={Anderson},
+           familyi={A\bibinitperiod},
+           given={D.\bibnamedelimi A.},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1512cdbcb700ba76177f7a8b968cdf4a}{%
+           family={Tannehill},
+           familyi={T\bibinitperiod},
+           given={J.\bibnamedelimi C.},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2f8c00c1866b637a259eadddb9d66cb0}{%
+           family={Pletcher},
+           familyi={P\bibinitperiod},
+           given={R.\bibnamedelimi H.},
+           giveni={R\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor \& Francis}%
+      }
+      \strng{namehash}{d1c5254f406ce93ce15111cc28399ba4}
+      \strng{fullhash}{c79cf52b2be76c7d6a820bd6b26fc2a7}
+      \strng{bibnamehash}{c79cf52b2be76c7d6a820bd6b26fc2a7}
+      \strng{authorbibnamehash}{c79cf52b2be76c7d6a820bd6b26fc2a7}
+      \strng{authornamehash}{d1c5254f406ce93ce15111cc28399ba4}
+      \strng{authorfullhash}{c79cf52b2be76c7d6a820bd6b26fc2a7}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2nd}
+      \field{title}{Computational Fluid Dynamics and Heat Transfer}
+      \field{year}{2006}
+    \endentry
     \entry{thesis2015}{thesis}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=2a78169cebccc5c7f36671f3c4b9ba6b}{%
