@@ -1,0 +1,36 @@
+%参考文献
+
+
+\newpage
+
+{\LARGE References}
+
+[1]Koç C K. Analysis of sliding window techniques for exponentiation[J]. Computers and Mathematics with Applications, 1995, 30(10): 17-24.
+
+[2]Hartigan J A, Wong M A. A k-means clustering algorithm[J]. Applied statistics, 1979, 28(1): 100-108.
+
+[3]Cohen I, Huang Y, Chen J, et al. Pearson correlation coefficient[J]. Noise reduction in speech processing, 2009: 1-4.
+
+[4]Dismuke C, Lindrooth R. Ordinary least squares[J]. Methods and designs for outcomes research, 2006, 93(1): 93-104.
+
+[5]Hochreiter S. Long Short-term Memory[J]. Neural Computation MIT-Press, 1997.
+
+[6]Eddy S R. Hidden markov models[J]. Current opinion in structural biology, 1996, 6(3): 361-365.
+
+[7]Breiman L. Random forests[J]. Machine learning, 2001, 45: 5-32.
+
+[8]Scarselli F, Gori M, Tsoi A C, et al. The graph neural network model[J]. IEEE transactions on neural networks, 2008, 20(1): 61-80.
+
+
+%假设与检验
+\section{Assumptions and Justification}
+
+To simplify the problem, we make the following assumptions, each of which is reasonable. 
+
+\begin{itemize}
+\item {\bf Assumption 1}： 1. It is assumed that the number and type of medals won by each country each year are allocated according to specific selection rules: these rules may include the individual performance of athletes, the historical achievements of the country, the scoring criteria for the event, etc. Each country's winnings are determined by a clear set of judging mechanisms and criteria, so the allocation of medals can be viewed as a formulaic process based on these regulations, ensuring that each country has a fair chance based on following the same rules.
+    
+\item {\bf Assumption 2}. It is assumed that potentially influential factors not included in the dataset do not play a substantial role in the production of medal counts: the model is analysed without taking into account variables that are not given and it is assumed that they do not influence the final outcome of medal counts. If these factors have the potential to introduce noise in the analysis, their interference can be eliminated through data pre-processing techniques, such as removing outliers or using standardisation methods, thus making the results more accurate and reliable.
+
+
+
