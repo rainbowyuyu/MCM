@@ -1,18 +1,18 @@
 # Fdb version 4
-["biber MedalPrediction"] 1738020843.62272 "MedalPrediction.bcf" "MedalPrediction.bbl" "MedalPrediction" 1738020858.65747 0
-  "MedalPrediction.bcf" 1738020858 132524 835554818c68e0095eec6ee51b19afe0 "pdflatex"
+["biber MedalPrediction"] 1738020843.62272 "MedalPrediction.bcf" "MedalPrediction.bbl" "MedalPrediction" 1738021165.18294 0
+  "MedalPrediction.bcf" 1738021164 132524 835554818c68e0095eec6ee51b19afe0 "pdflatex"
   (generated)
   "MedalPrediction.bbl"
   "MedalPrediction.blg"
   (rewritten before read)
-["pdflatex"] 1738020852.0866 "d:/github/MCM/medal/MedalPrediction.tex" "MedalPrediction.pdf" "MedalPrediction" 1738020858.65831 0
-  "MedalPrediction.aux" 1738020858 8674 473aebec657031a63ebd58623ffdfa04 "pdflatex"
+["pdflatex"] 1738021158.61567 "d:/github/MCM/medal/MedalPrediction.tex" "MedalPrediction.pdf" "MedalPrediction" 1738021165.18378 0
+  "MedalPrediction.aux" 1738021164 8800 91728e9ca2417331d1b540ed76fd312a "pdflatex"
   "MedalPrediction.bbl" 1738020845 486 ee04f40f768daeed26442158e95aba61 "biber MedalPrediction"
-  "MedalPrediction.out" 1738020858 4627 2462301f9e64c6f017def1f1088ba02d "pdflatex"
-  "MedalPrediction.run.xml" 1738020858 2503 8d6b672e629aa8eecac741a036cd0266 "pdflatex"
-  "MedalPrediction.tex" 1738020836 37262 494a5088ffae52f181fc57074c7589b4 ""
-  "MedalPrediction.toc" 1738020858 2178 ababec769d6d7ac8b1f3d32a2bc776db "pdflatex"
-  "d:/github/MCM/medal/MedalPrediction.tex" 1738020836 37262 494a5088ffae52f181fc57074c7589b4 ""
+  "MedalPrediction.out" 1738021164 4778 ff4455cc3cd0a619cd98fc3ccc96e873 "pdflatex"
+  "MedalPrediction.run.xml" 1738021164 2503 8d6b672e629aa8eecac741a036cd0266 "pdflatex"
+  "MedalPrediction.tex" 1738021151 38059 9df04e4e226237410143c6c22b83df7b ""
+  "MedalPrediction.toc" 1738021164 2263 daee82481a235b1a7895234bb88928dd "pdflatex"
+  "d:/github/MCM/medal/MedalPrediction.tex" 1738021151 38059 9df04e4e226237410143c6c22b83df7b ""
   "d:/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc" 1737373094 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "d:/texlive/2024/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf.enc" 1737373697 2914 fdbc4a54b9bc76f4551b5303f2737d33 ""
   "d:/texlive/2024/texmf-dist/fonts/enc/dvips/tex-gyre/q-ts1.enc" 1737374165 3124 3813fd4c981d99822890a2861b0d274c ""
