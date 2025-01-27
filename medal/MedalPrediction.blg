@@ -1,0 +1,9 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:310> INFO - Logfile is 'MedalPrediction.blg'
+[114] biber-MSWIN64:340> INFO - === 
+[159] Biber.pm:419> INFO - Reading 'MedalPrediction.bcf'
+[274] Biber.pm:979> INFO - Found 0 citekeys in bib section 0
+[291] bbl.pm:660> INFO - Writing 'MedalPrediction.bbl' with encoding 'UTF-8'
+[291] bbl.pm:763> INFO - Output to MedalPrediction.bbl
+[292] Biber.pm:131> WARN - The file 'MedalPrediction.bcf' does not contain any citations!
+[292] Biber.pm:133> INFO - WARNINGS: 1

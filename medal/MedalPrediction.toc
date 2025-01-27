@@ -8,3 +8,17 @@
 \contentsline {section}{\numberline {5}TASK1\&2: Medal Count Prediction Based on LSTM}{4}{section.5}%
 \contentsline {subsection}{\numberline {5.1}Data Analysis}{4}{subsection.5.1}%
 \contentsline {subsubsection}{\numberline {5.1.1}Correlation Matrix Analysis Based on Pearson Correlation}{5}{subsubsection.5.1.1}%
+\contentsline {subsubsection}{\numberline {5.1.2}A Classification Model for Medal-Winning Countries Based on K-Means}{6}{subsubsection.5.1.2}%
+\contentsline {subsection}{\numberline {5.2}Model Selection}{8}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Long and Short Term Memory Network}{8}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}Implementation of LSTM}{9}{subsection.5.4}%
+\contentsline {subsubsection}{\numberline {5.4.1}Quantifying the Impact of Host Countries}{10}{subsubsection.5.4.1}%
+\contentsline {subsubsection}{\numberline {5.4.2}Building the LSTM Model}{10}{subsubsection.5.4.2}%
+\contentsline {subsection}{\numberline {5.5}Prediction Interval from the Result}{11}{subsection.5.5}%
+\contentsline {subsection}{\numberline {5.6}the Advantage of LSTM}{14}{subsection.5.6}%
+\contentsline {section}{\numberline {6}TASK4: Quantitative Graph Theory Model of the "Great Coach Effect" Based on Network Flow}{15}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Model Background}{15}{subsection.6.1}%
+\contentsline {section}{\numberline {7}Letter}{16}{section.7}%
+\contentsline {section}{\numberline {8}Model Assessment}{16}{section.8}%
+\contentsline {subsection}{\numberline {8.1}Strengths}{16}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.2}Weaknesses}{17}{subsection.8.2}%

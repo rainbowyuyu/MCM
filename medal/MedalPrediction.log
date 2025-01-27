@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.20)  28 JAN 2025 05:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.20)  28 JAN 2025 07:34
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -879,7 +879,44 @@ LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 (Font)              scaled to size 12.0pt on input line 26.
 \@quotelevel=\count466
 \@quotereset=\count467
- (./MedalPrediction.aux)
+ (./MedalPrediction.aux
+
+LaTeX Warning: Label `Figure 4' multiply defined.
+
+
+LaTeX Warning: Label `Figure 4' multiply defined.
+
+
+LaTeX Warning: Label `Figure 4' multiply defined.
+
+
+LaTeX Warning: Label `Figure 4' multiply defined.
+
+
+LaTeX Warning: Label `Figure 4' multiply defined.
+
+
+LaTeX Warning: Label `fig_E1' multiply defined.
+
+
+LaTeX Warning: Label `Figure 4' multiply defined.
+
+
+LaTeX Warning: Label `subfig:player1' multiply defined.
+
+
+LaTeX Warning: Label `sub@subfig:player1' multiply defined.
+
+
+LaTeX Warning: Label `subfig:player2' multiply defined.
+
+
+LaTeX Warning: Label `sub@subfig:player2' multiply defined.
+
+
+LaTeX Warning: Label `Figure6-7' multiply defined.
+
+)
 \openout1 = `MedalPrediction.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
@@ -950,6 +987,7 @@ LaTeX Font Info:    ... okay on input line 26.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 Package hyperref Info: Link coloring OFF on input line 26.
+(./MedalPrediction.out) (./MedalPrediction.out)
 \@outlinefile=\write5
 \openout5 = `MedalPrediction.out'.
 
@@ -957,7 +995,7 @@ Package hyperref Info: Link coloring OFF on input line 26.
 \c@mv@boldtabular=\count476
 Package biblatex Info: Trying to load language 'english' -> 'english-apa'...
 Package biblatex Info: ... file 'english-apa.lbx' found.
-(d:/texlive/2024/texmf-dist/tex/latex/biblatex-apa/english-apa.lbx
+ (d:/texlive/2024/texmf-dist/tex/latex/biblatex-apa/english-apa.lbx
 File: english-apa.lbx 2023/03/20 v9.17 APA biblatex localisation
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
@@ -1023,33 +1061,27 @@ LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 (Font)              scaled to size 17.28pt on input line 48.
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
 (Font)              scaled to size 17.28pt on input line 48.
-
-No file MedalPrediction.toc.
+ (./MedalPrediction.toc)
 \tf@toc=\write6
 \openout6 = `MedalPrediction.toc'.
 
-[2]
+ [2]
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 14.4pt on input line 55.
-LaTeX Font Info:    Trying to load font information for TS1+ntxtlf on input line 63.
+(Font)              scaled to size 14.4pt on input line 58.
+LaTeX Font Info:    Trying to load font information for TS1+ntxtlf on input line 66.
  (d:/texlive/2024/texmf-dist/tex/latex/newtx/ts1ntxtlf.fd
 File: ts1ntxtlf.fd 2015/01/18 v1.0 fd file for TS1/ntxtlf
 )
 LaTeX Font Info:    Font shape `TS1/ntxtlf/m/n' will be
-(Font)              scaled to size 12.0pt on input line 63.
+(Font)              scaled to size 12.0pt on input line 66.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 10.95pt on input line 83.
-LaTeX Font Info:    Trying to load font information for T1+fvs on input line 83.
+(Font)              scaled to size 10.95pt on input line 86.
+LaTeX Font Info:    Trying to load font information for T1+fvs on input line 86.
  (d:/texlive/2024/texmf-dist/tex/latex/bera/t1fvs.fd
 File: t1fvs.fd 2004/09/07 scalable font definitions for T1/fvs.
 )
 LaTeX Font Info:    Font shape `T1/fvs/m/n' will be
-(Font)              scaled to size 9.85492pt on input line 83.
-LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 10.95pt on input line 83.
-
-
-LaTeX Warning: Reference `LastPage' on page 3 undefined on input line 83.
+(Font)              scaled to size 9.85492pt on input line 86.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1060,9 +1092,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [3{d:/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc}{d:/texlive/2024/texmf-dist/fonts/enc/dvips/tex-gyre/q-ts1.enc}]
 
-LaTeX Warning: Reference `LastPage' on page 4 undefined on input line 100.
-
-
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
 (fancyhdr)                \setlength{\headheight}{13.59999pt}.
@@ -1070,30 +1099,16 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [4]
-
-LaTeX Warning: File `res/graph/heatmapofChina.png' not found on input line 124.
-
-
-d:/github/MCM/medal/MedalPrediction.tex:124: Package pdftex.def Error: File `res/graph/heatmapofChina.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.124 ...width=12cm]{res/graph/heatmapofChina.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-LaTeX Font Info:    Trying to load font information for T1+ntxtt on input line 124.
-(d:/texlive/2024/texmf-dist/tex/latex/newtx/t1ntxtt.fd
-File: t1ntxtt.fd 2012/04/20 v3.1
-)
-LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
-(Font)              scaled to size 12.0pt on input line 124.
-
-
-LaTeX Warning: Reference `LastPage' on page 5 undefined on input line 142.
+<graph/heatmap.png, id=152, 618.81187pt x 565.36218pt>
+File: graph/heatmap.png Graphic file (type png)
+<use graph/heatmap.png>
+Package pdftex.def Info: graph/heatmap.png  used on input line 127.
+(pdftex.def)             Requested size: 284.52756pt x 259.95761pt.
+<graph/Correlation of CHN with Programs.png, id=154, 626.8218pt x 438.6789pt>
+File: graph/Correlation of CHN with Programs.png Graphic file (type png)
+<use graph/Correlation of CHN with Programs.png>
+Package pdftex.def Info: graph/Correlation of CHN with Programs.png  used on input line 133.
+(pdftex.def)             Requested size: 341.43306pt x 238.95142pt.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1102,9 +1117,16 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[5]
-
-LaTeX Warning: Reference `LastPage' on page 6 undefined on input line 142.
+[5 <./graph/heatmap.png>]
+<graph/K-means.png, id=166, 1453.43pt x 269.50688pt>
+File: graph/K-means.png Graphic file (type png)
+<use graph/K-means.png>
+Package pdftex.def Info: graph/K-means.png  used on input line 146.
+(pdftex.def)             Requested size: 341.43306pt x 63.30945pt.
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 8.0pt on input line 153.
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 6.0pt on input line 153.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1113,7 +1135,210 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[6] 
+[6 <./graph/Correlation of CHN with Programs.png> <./graph/K-means.png>]
+Overfull \hbox (12.12607pt too wide) in paragraph at lines 166--168
+\T1/ntxtlf/m/n/12 First, we cal-cu-lated the oc-cur-rence fre-quency of each NOC in the dataset ath-letes_with_gold_medal
+ []
+
+<graph/K-Means Clustering Redraw.png, id=175, 743.1765pt x 547.5657pt>
+File: graph/K-Means Clustering Redraw.png Graphic file (type png)
+<use graph/K-Means Clustering Redraw.png>
+Package pdftex.def Info: graph/K-Means Clustering Redraw.png  used on input line 173.
+(pdftex.def)             Requested size: 284.52756pt x 209.63954pt.
+
+Underfull \hbox (badness 2261) in paragraph at lines 189--189
+[]|\T1/ntxtlf/m/n/12 Cluster-1 (Olympic Pow-er-
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[7 <./graph/K-Means Clustering Redraw.png>]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[8]
+<graph/workflow.png, id=197, 365.11406pt x 137.01187pt>
+File: graph/workflow.png Graphic file (type png)
+<use graph/workflow.png>
+Package pdftex.def Info: graph/workflow.png  used on input line 231.
+(pdftex.def)             Requested size: 341.43306pt x 128.13052pt.
+<graph/sliding_window.png, id=198, 1005.7575pt x 729.32475pt>
+File: graph/sliding_window.png Graphic file (type png)
+<use graph/sliding_window.png>
+Package pdftex.def Info: graph/sliding_window.png  used on input line 239.
+(pdftex.def)             Requested size: 341.43306pt x 247.58876pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[9 <./graph/workflow.png> <./graph/sliding_window.png>]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[10]
+<predict/USA_medals_prediction.png, id=217, 462.528pt x 346.896pt>
+File: predict/USA_medals_prediction.png Graphic file (type png)
+<use predict/USA_medals_prediction.png>
+Package pdftex.def Info: predict/USA_medals_prediction.png  used on input line 293.
+(pdftex.def)             Requested size: 203.83417pt x 152.87819pt.
+<predict/CHN_medals_prediction.png, id=218, 462.528pt x 346.896pt>
+File: predict/CHN_medals_prediction.png Graphic file (type png)
+<use predict/CHN_medals_prediction.png>
+Package pdftex.def Info: predict/CHN_medals_prediction.png  used on input line 295.
+(pdftex.def)             Requested size: 203.83417pt x 152.87819pt.
+<predict/FRA_medals_prediction.png, id=219, 462.528pt x 346.896pt>
+File: predict/FRA_medals_prediction.png Graphic file (type png)
+<use predict/FRA_medals_prediction.png>
+Package pdftex.def Info: predict/FRA_medals_prediction.png  used on input line 301.
+(pdftex.def)             Requested size: 203.83417pt x 152.87819pt.
+<predict/GRE_medals_prediction.png, id=220, 462.528pt x 346.896pt>
+File: predict/GRE_medals_prediction.png Graphic file (type png)
+<use predict/GRE_medals_prediction.png>
+Package pdftex.def Info: predict/GRE_medals_prediction.png  used on input line 303.
+(pdftex.def)             Requested size: 203.83417pt x 152.87819pt.
+<predict/INA_medals_prediction.png, id=221, 462.528pt x 346.896pt>
+File: predict/INA_medals_prediction.png Graphic file (type png)
+<use predict/INA_medals_prediction.png>
+Package pdftex.def Info: predict/INA_medals_prediction.png  used on input line 309.
+(pdftex.def)             Requested size: 203.83417pt x 152.87819pt.
+<predict/TPE_medals_prediction.png, id=222, 462.528pt x 346.896pt>
+File: predict/TPE_medals_prediction.png Graphic file (type png)
+<use predict/TPE_medals_prediction.png>
+Package pdftex.def Info: predict/TPE_medals_prediction.png  used on input line 311.
+(pdftex.def)             Requested size: 203.83417pt x 152.87819pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[11]
+<graph/res1.png, id=228, 617.6676pt x 414.348pt>
+File: graph/res1.png Graphic file (type png)
+<use graph/res1.png>
+Package pdftex.def Info: graph/res1.png  used on input line 321.
+(pdftex.def)             Requested size: 135.89174pt x 91.15683pt.
+<graph/res2.png, id=229, 605.3817pt x 415.0707pt>
+File: graph/res2.png Graphic file (type png)
+<use graph/res2.png>
+Package pdftex.def Info: graph/res2.png  used on input line 322.
+(pdftex.def)             Requested size: 135.89174pt x 93.17152pt.
+<graph/res3.png, id=230, 611.4042pt x 414.348pt>
+File: graph/res3.png Graphic file (type png)
+<use graph/res3.png>
+Package pdftex.def Info: graph/res3.png  used on input line 323.
+(pdftex.def)             Requested size: 135.89174pt x 92.09256pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[12 <./predict/USA_medals_prediction.png> <./predict/CHN_medals_prediction.png> <./predict/FRA_medals_prediction.png> <./predict/GRE_medals_prediction.png> <./predict/INA_medals_prediction.png> <./predict/TPE_medals_prediction.png>]
+<graph/res11.png, id=243, 611.6451pt x 414.348pt>
+File: graph/res11.png Graphic file (type png)
+<use graph/res11.png>
+Package pdftex.def Info: graph/res11.png  used on input line 330.
+(pdftex.def)             Requested size: 135.89174pt x 92.05463pt.
+<graph/res22.png, id=244, 614.7768pt x 415.0707pt>
+File: graph/res22.png Graphic file (type png)
+<use graph/res22.png>
+Package pdftex.def Info: graph/res22.png  used on input line 331.
+(pdftex.def)             Requested size: 135.89174pt x 91.7465pt.
+<graph/res33.png, id=245, 605.3817pt x 414.348pt>
+File: graph/res33.png Graphic file (type png)
+<use graph/res33.png>
+Package pdftex.def Info: graph/res33.png  used on input line 332.
+(pdftex.def)             Requested size: 135.89174pt x 93.00931pt.
+<graph/Correlation by Sport Code.png, id=246, 626.8218pt x 462.7689pt>
+File: graph/Correlation by Sport Code.png Graphic file (type png)
+<use graph/Correlation by Sport Code.png>
+Package pdftex.def Info: graph/Correlation by Sport Code.png  used on input line 343.
+(pdftex.def)             Requested size: 341.43306pt x 252.07341pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[13 <./graph/res1.png> <./graph/res2.png> <./graph/res3.png> <./graph/res11.png> <./graph/res22.png> <./graph/res33.png>]
+<graph/Average Loss by NOC Using HMM.png, id=261, 613.5723pt x 428.3202pt>
+File: graph/Average Loss by NOC Using HMM.png Graphic file (type png)
+<use graph/Average Loss by NOC Using HMM.png>
+Package pdftex.def Info: graph/Average Loss by NOC Using HMM.png  used on input line 354.
+(pdftex.def)             Requested size: 203.83417pt x 142.28723pt.
+<graph/Average Loss by NOC Using LSTM.png, id=262, 633.0852pt x 428.3202pt>
+File: graph/Average Loss by NOC Using LSTM.png Graphic file (type png)
+<use graph/Average Loss by NOC Using LSTM.png>
+Package pdftex.def Info: graph/Average Loss by NOC Using LSTM.png  used on input line 361.
+(pdftex.def)             Requested size: 203.83417pt x 137.90182pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[14 <./graph/Correlation by Sport Code.png> <./graph/Average Loss by NOC Using HMM.png> <./graph/Average Loss by NOC Using LSTM.png>]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[15]
+<graph/Distribution of Sex.png, id=278, 350.5095pt x 364.7226pt>
+File: graph/Distribution of Sex.png Graphic file (type png)
+<use graph/Distribution of Sex.png>
+Package pdftex.def Info: graph/Distribution of Sex.png  used on input line 416.
+(pdftex.def)             Requested size: 203.83417pt x 212.10133pt.
+<graph/Number_of_Athletes_by_Sex.png, id=279, 745.8264pt x 496.4949pt>
+File: graph/Number_of_Athletes_by_Sex.png Graphic file (type png)
+<use graph/Number_of_Athletes_by_Sex.png>
+Package pdftex.def Info: graph/Number_of_Athletes_by_Sex.png  used on input line 423.
+(pdftex.def)             Requested size: 203.83417pt x 135.6918pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[16 <./graph/Distribution of Sex.png> <./graph/Number_of_Athletes_by_Sex.png>]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[17] 
 enddocument/afterlastpage: lastpage setting LastPage.
 (./MedalPrediction.aux)
  ***********
@@ -1122,44 +1347,27 @@ L3 programming layer <2020/03/25>
  ***********
 
 
-LaTeX Warning: There were undefined references.
+LaTeX Warning: There were multiply-defined labels.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-
-Package rerunfilecheck Warning: File `MedalPrediction.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `MedalPrediction.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  7DFC77219CB52FF10BEF4BA6CF86F7DB;1679.
-
-Package lastpage Warning: Rerun to get the references right on input line 142.
-
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                MedalPrediction
-(biblatex)                and rerun LaTeX afterwards.
-
+Package rerunfilecheck Info: File `MedalPrediction.out' has not changed.
+(rerunfilecheck)             Checksum: 2462301F9E64C6F017DEF1F1088BA02D;4627.
 Package logreq Info: Writing requests to 'MedalPrediction.run.xml'.
 \openout1 = `MedalPrediction.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 25230 strings out of 476023
- 432229 string characters out of 5791734
- 1943190 words of memory out of 5000000
- 46901 multiletter control sequences out of 15000+600000
- 606074 words of font info for 87 fonts, out of 8000000 for 9000
+ 25432 strings out of 476023
+ 437460 string characters out of 5791734
+ 1942190 words of memory out of 5000000
+ 47058 multiletter control sequences out of 15000+600000
+ 608627 words of font info for 87 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
  90i,13n,131p,1180b,5182s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<d:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/bera/fvsr8a.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/tex-gyre/qtmr.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/txfonts/t1xtt.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/newtx/ztmb.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/newtx/ztmr.pfb>
-Output written on MedalPrediction.pdf (6 pages, 146966 bytes).
+<d:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/bera/fvsr8a.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/tex-gyre/qtmr.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/newtx/ztmb.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/newtx/ztmr.pfb>
+Output written on MedalPrediction.pdf (17 pages, 3362556 bytes).
 PDF statistics:
- 98 PDF objects out of 1000 (max. 8388607)
- 71 compressed objects within 1 object stream
- 20 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 367 PDF objects out of 1000 (max. 8388607)
+ 274 compressed objects within 3 object streams
+ 63 named destinations out of 1000 (max. 500000)
+ 308 words of extra memory for PDF output out of 10000 (max. 10000000)
 
