@@ -6,4 +6,5 @@ statsmodels
 tensorflow
 keras
 seaborn
-adjusttext
+adjustText
+openpyxl
