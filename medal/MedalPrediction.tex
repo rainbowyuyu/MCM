@@ -374,6 +374,164 @@ From the figure, it is evident that compared to the traditional Hidden Markov Mo
 \end{itemize}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%随机森林%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{TASK3:Random Forest-based prediction of first-time award-winning countries}
+
+\subsection{Random Forest Model}
+To identify the key factors influencing the transition in the number of medals won by a country, two steps are required:
+\begin{itemize}
+\item {\bf First}, a predictive model is developed to predict the turning point where the number of medals shifts from zero to one.        
+\item {\bf Second}, infer key indicators based on the model results.
+\end{itemize}
+
+\subsection{Data Preparation and Preprocessing}
+
+\subsubsection{Data Table Construction}
+    Construct three data tables, participation\_by\_year\_country, participation\_by\_year\_country\_count, and sport\_count\_pivot, to record the number of participants of the country each year, the cumulative number of participations by year, and the number of events participated each year, respectively.
+
+    To exclude countries that did not win any medals, entries from the participation\_by\_year\_country table corresponding to countries listed in the NOC column of the medal\_counts table were deleted.
+
+    In the medals\_by\_year and medals\_by\_year\_gold datasets, the historical data for each country was traversed to determine the year in which they first won a medal. If all values in a column were zero, None was returned. The results were then stored in first\_medal\_filtered for preview. This dataset only contains countries whose first medal or gold medal year is greater than or equal to 1920.
+
+\subsubsection{Dataset Creation}
+
+{\bf First Iteration:}
+    For each country's NOC, corresponding information was extracted from the participation\_by\_year\_country\_count, participation\_by\_year\_country, and sport\_count\_pivot data frames:
+\begin{itemize}   
+\item {\bf participation\_count:} The number of times the country participated in the year it first won a medal.
+\item {\bf events\_participation} The number of events the country participated in during the year it first won a medal.
+\item {\bf sport\_count: }The number of sports the country participated in during the year it first won a medal.
+These extracted values were then added to , which will serve as the basis for subsequent datasets.
+\end{itemize}
+
+These extracted values were then added to new\_table\_data, which will serve as the basis for subsequent datasets.
+
+{\bf Second Iteration:}
+    To obtain data from the four years prior to the first medal year, the data from the four years after the first medal year were subtracted.
+
+{\bf Third Iteration:}
+    For each country that had never won a medal, the country's NOC, participation\_count, events\_participation, and sport\_count were added to new\_table\_data as a list.
+
+    Finally, the entire list of data stored in new\_table\_data was converted into a Pandas DataFrame. After filling in missing values and cleaning invalid data, the final dataset, tree\_dataset, was formed.
+
+\subsection{ Model Construction}
+
+\subsubsection{Variable Analysis}
+After careful selection and consideration of the available limited data, we chose three feature variables to train the model. The detailed list of variables is as follows:
+
+    \begin{table}[h] 
+        \centering  
+        \caption{Table of Variables}  
+        \label{tab1} 
+    \begin{tabular}{ll} 
+        \toprule[2pt]
+        \textbf{Indicator}  & \textbf{Descriptions} \\    
+        \midrule [1pt]
+        $participation\_count$ & The number of participants from the country\\
+        $events\_participation\_count$ & The number of times the country participated\\
+        $sport\_count$   & The number of sports in which the country participated each time \\
+        \bottomrule[2pt]
+    \end{tabular}
+    \end{table}
+
+    At the same time, our target variable is Will\_Earn\_Medal, which indicates whether a medal will be earned (1 or 0).
+
+\subsubsection{Model Training}
+   
+    After standardizing the data using StandardScaler, the dataset was split into training and testing sets, with 80\% used for training and 20\% for testing.
+
+    We utilized the aforementioned features as input parameters for the Random Forest model to train on the training set. The parameter grid for the Random Forest model was as follows:
+    \begin{table}[h] 
+        \centering  
+        \caption{Input parameters for forest models}  
+        \label{tab1} 
+    \begin{tabular}{ccccc} 
+        \toprule[2pt]
+        \textbf{Indicator}  & \textbf{Descriptions} \\    
+        \midrule [1pt]
+        $Number of Estimators$ & [50, 100, 150, 200]\\
+        $Max Depth$ & [None, 10, 20, 30]\\
+        $Min Samples Leaf$   & [2, 5, 10] \\
+        $Min Samples Split$ & [1, 2, 4]\\
+        $Max Features$ & ['auto', 'sqrt', 'log2']\\
+        \bottomrule[2pt]
+    \end{tabular}
+    \end{table}
+
+    We employed the RandomForestRegressor algorithm from the scikit-learn (sklearn) machine learning library, along with the GridSearchCV method for hyperparameter tuning. The optimal hyperparameter combination obtained from GridSearchCV was as follows:
+
+    \begin{table}[h] 
+        \centering  
+        \caption{Optimal hyperparameter combination}  
+        \label{tab1} 
+    \begin{tabular}{ccccc} 
+        \toprule[2pt]
+        \textbf{Indicator}  & \textbf{Descriptions} \\    
+        \midrule [1pt]
+        $Number of Estimators$ & 200\\
+        $Max Depth$ & 10\\
+        $Min Samples Leaf$   & 1 \\
+        $Min Samples Split$ & 2\\
+        $Max Features$ & sqrt\\
+        \bottomrule[2pt]
+    \end{tabular}
+    \end{table}
+
+\subsubsection{Model Performance Visualization}
+
+    To assess the performance of the mod
+
+\begin{itemize}   
+    \item {\bf Confusion Matrix} :Displays the relationship between the model's predictions and the true labels, helping to analyze the types of errors made by the model.
+    \item {\bf ROC Curve}: Plots the Receiver Operating Characteristic (ROC) curve, which measures the model's performance across different thresholds.
+\end{itemize} 
+
+    The confusion matrix and ROC curve are shown below:
+
+\begin{figure}[H]
+    \centering
+    \begin{subfigure}{0.4\textwidth}
+        \centering
+        \includegraphics[width=\textwidth]{graph/rf_roc.png}
+        \caption{ROC Curve}
+        \label{subfig:player1}
+    \end{subfigure}
+    \hfill
+    \begin{subfigure}{0.4\textwidth}
+        \centering
+        \includegraphics[width=\textwidth]{/graph/rf_confusion_matrix.png}
+        \caption{Confusion Matrix}
+        \label{subfig:player2}
+    \end{subfigure}
+    \caption{Model Performance Visualization}
+    \label{Figure 13}
+\end{figure}
+
+    The confusion matrix indicates that the model's prediction accuracy is 94\%, with a false positive rate of only 0.039 (9/233), suggesting that the model is highly reliable and that most samples are correctly classified. The match between the predicted values and the true labels in the test set is high.
+
+    The model's AUC (Area Under the Curve) is 0.87, demonstrating strong discriminative power and the ability to effectively distinguish between positive and negative classes. Additionally, the ROC curve rapidly rises in the low false positive rate (FPR) region, indicating that the model achieves a high recall rate while maintaining a low false positive rate. The model's true positive rate is commendable.
+
+\subsubsection{Model Prediction}
+    Using the best-trained model, {\bf best\_rf\_model}, we predicted the outcomes for new standardized data. The predict\_proba() method returns the probability of each sample belonging to each class, which allows us to calculate the probability of each country winning a medal.
+
+\subsection{Model Testing}
+
+\subsubsection{Test Set Construction}
+
+    To validate the model's performance in real-world prediction tasks, we identified and selected historical samples of countries that have never won a medal from the {\bf athletes} dataset. We used a temporal grouping method to ensure the continuity and completeness of the data. After standardizing the feature data and applying quality control measures, we ultimately formed a high-quality test dataset.
+
+    A new dataset containing relevant statistical data for all countries that have never won a medal was generated for the year 2024.
+
+\subsubsection{Testing}
+
+    Using the trained Random Forest model {\bf best\_rf\_model}, we predicted the features for each country and calculated the probability of each country winning a medal. These probabilities were stored in a list, sorted, and the countries most likely to win a medal were identified. A bar chart was then generated to visualize the predicted probabilities of each country winning a medal.
+
+    Through probability distribution analysis, it was found that the prediction results exhibit distinct layering. Countries with a predicted probability greater than 0.20 are primarily concentrated in emerging market nations with well-developed sports infrastructure. These countries generally show consistent investment in sports and the specialization of sports programs.
+
+\begin{figure}[h]   
+    \centering          
+    \includegraphics[width=12cm]{graph/rf_prediction.png}
+    \caption{Predicted Probabilities for Medal by Country} \label{fig1}    
+\end{figure}
 
 
 
@@ -393,7 +551,33 @@ In this section, we need to complete:
 
 \subsection{Model Construction}
 This section aims to construct a directed graph based on the network flow model of graph theory, which can effectively reflect how coach movement influences medal count changes in various countries. Through this model, we can quantify the coach’s influence, especially the impact on a country’s sports results after the coach's movement or replacement. The nodes in this graph represent different countries, while the directed edges represent the movement of coaches between countries and their contributions to medal counts. By applying the total flow and bottleneck flow algorithms, we can deeply analyze the coach's role, evaluate their impact on medal counts, and provide scientific recommendations for future coach selection and resource allocation.
+\begin{figure}[h]   
+    \centering          
+    \includegraphics[width=12cm]{graph/graphy_baseline.png}
+    \caption{Quantitative Evaluation Framework Based on Network Flow Model } \label{fig1}    
+\end{figure}
 
+
+%\subsubsubsection{Construction of the Basic Directed Graph}
+
+\begin{figure}[H]
+    \centering
+    \begin{subfigure}{0.45\textwidth}
+        \centering
+        \includegraphics[width=\textwidth]{graph/graphy super country.png}
+        \caption{super country type}
+        \label{subfig:player1}
+    \end{subfigure}
+    \hfill
+    \begin{subfigure}{0.45\textwidth}
+        \centering
+        \includegraphics[width=\textwidth]{graph/graphy country flow.png}
+        \caption{Large country circulation type}
+        \label{subfig:player2}
+    \end{subfigure}
+    \caption{graph theory model}
+    \label{Figure 13}
+\end{figure}
 
 
 

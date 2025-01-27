@@ -1,18 +1,18 @@
 # Fdb version 4
-["biber MedalPrediction"] 1738020843.62272 "MedalPrediction.bcf" "MedalPrediction.bbl" "MedalPrediction" 1738021165.18294 0
-  "MedalPrediction.bcf" 1738021164 132524 835554818c68e0095eec6ee51b19afe0 "pdflatex"
+["biber MedalPrediction"] 1738020843.62272 "MedalPrediction.bcf" "MedalPrediction.bbl" "MedalPrediction" 1738022159.52425 0
+  "MedalPrediction.bcf" 1738022159 132524 835554818c68e0095eec6ee51b19afe0 "pdflatex"
   (generated)
   "MedalPrediction.bbl"
   "MedalPrediction.blg"
   (rewritten before read)
-["pdflatex"] 1738021158.61567 "d:/github/MCM/medal/MedalPrediction.tex" "MedalPrediction.pdf" "MedalPrediction" 1738021165.18378 0
-  "MedalPrediction.aux" 1738021164 8800 91728e9ca2417331d1b540ed76fd312a "pdflatex"
+["pdflatex"] 1738022152.548 "d:/github/MCM/medal/MedalPrediction.tex" "MedalPrediction.pdf" "MedalPrediction" 1738022159.5252 0
+  "MedalPrediction.aux" 1738022159 12885 7c6766032a12a74a02fd0c40462853d4 "pdflatex"
   "MedalPrediction.bbl" 1738020845 486 ee04f40f768daeed26442158e95aba61 "biber MedalPrediction"
-  "MedalPrediction.out" 1738021164 4778 ff4455cc3cd0a619cd98fc3ccc96e873 "pdflatex"
-  "MedalPrediction.run.xml" 1738021164 2503 8d6b672e629aa8eecac741a036cd0266 "pdflatex"
-  "MedalPrediction.tex" 1738021151 38059 9df04e4e226237410143c6c22b83df7b ""
-  "MedalPrediction.toc" 1738021164 2263 daee82481a235b1a7895234bb88928dd "pdflatex"
-  "d:/github/MCM/medal/MedalPrediction.tex" 1738021151 38059 9df04e4e226237410143c6c22b83df7b ""
+  "MedalPrediction.out" 1738022159 7190 beb8432308da8342cb7bd8eed0119983 "pdflatex"
+  "MedalPrediction.run.xml" 1738022159 2503 8d6b672e629aa8eecac741a036cd0266 "pdflatex"
+  "MedalPrediction.tex" 1738022144 48239 450fccb60e7aff805f5e4928eba01995 ""
+  "MedalPrediction.toc" 1738022159 3508 d9ad66cdb0f5b2aacd016b60d513a7f1 "pdflatex"
+  "d:/github/MCM/medal/MedalPrediction.tex" 1738022144 48239 450fccb60e7aff805f5e4928eba01995 ""
   "d:/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc" 1737373094 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "d:/texlive/2024/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf.enc" 1737373697 2914 fdbc4a54b9bc76f4551b5303f2737d33 ""
   "d:/texlive/2024/texmf-dist/fonts/enc/dvips/tex-gyre/q-ts1.enc" 1737374165 3124 3813fd4c981d99822890a2861b0d274c ""
@@ -218,6 +218,9 @@
   "graph/K-Means Clustering Redraw.png" 1737997522 588315 404cd6220abf90d04d21e704d9c99ce6 ""
   "graph/K-means.png" 1738012070 67571 d63c802732b6579b34d4028d2e5af890 ""
   "graph/Number_of_Athletes_by_Sex.png" 1737997522 242767 6fe0058deb477d6044e0b277de9035fe ""
+  "graph/graphy country flow.png" 1738012070 157147 76b811ecd1e1b727231b308a260245f2 ""
+  "graph/graphy super country.png" 1738012070 118725 1f00e6c53407610ec4e5a543f0bbe64c ""
+  "graph/graphy_baseline.png" 1738012070 124710 1e45565cfebab0b43e097731ba304c2d ""
   "graph/heatmap.png" 1738012070 388469 6d7d10af61419c65a29c06796ee95b0b ""
   "graph/res1.png" 1737997522 125623 654763cf032f2472dc984e5c5cf4051a ""
   "graph/res11.png" 1738019119 116365 ce10a9efa72d48b5148a9f0ab895b431 ""
@@ -225,6 +228,8 @@
   "graph/res22.png" 1738019126 130087 3a2dcb0138943baeec1f04836db02ad3 ""
   "graph/res3.png" 1737997522 129571 8dbaa80528630c6775590fbe3f3fa464 ""
   "graph/res33.png" 1738019134 124546 dbf22d29bcbb933e7b5953845d613883 ""
+  "graph/rf_prediction.png" 1737997522 49049 a5cde9db9b8ab1a00fd36d1f1941b9d9 ""
+  "graph/rf_roc.png" 1737997522 39402 3ae6aa96bdc5154e74fd5d28fc4483f8 ""
   "graph/sliding_window.png" 1737997522 66569 3247d033c7dac808c8211ea37f6b58e8 ""
   "graph/workflow.png" 1738014457 39971 cdcb18741268fba121abba87a4b7664e ""
   "mcmthesis.cls" 1737380016 10727 67adc6d5c4f482d41932bbcb779dcc1e ""
