@@ -75,7 +75,13 @@ Given the background information and constraints of the problem, we must complet
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%假设%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{Assumptions and Justification}
+To simplify the problem, we make the following assumptions, each of which is reasonable. 
 
+\begin{itemize}
+\item {\bf Assumption 1}: It is assumed that the number and type of medals won by each country each year are allocated according to specific selection rules: these rules may include the individual performance of athletes, the historical achievements of the country, the scoring criteria for the event, etc. Each country's winnings are determined by a clear set of judging mechanisms and criteria, so the allocation of medals can be viewed as a formulaic process based on these regulations, ensuring that each country has a fair chance based on following the same rules.
+    
+\item {\bf Assumption 2}: It is assumed that potentially influential factors not included in the dataset do not play a substantial role in the production of medal counts: the model is analysed without taking into account variables that are not given and it is assumed that they do not influence the final outcome of medal counts. If these factors have the potential to introduce noise in the analysis, their interference can be eliminated through data pre-processing techniques, such as removing outliers or using standardisation methods, thus making the results more accurate and reliable.
+\end{itemize}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%符号说明%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{Notations}
 
@@ -124,13 +130,13 @@ First, we constructed a Feature Correlation Matrix for countries that have previ
 
 \begin{figure}[H]
     \centering
-    \includegraphics[width=10cm]{graph/heatmap.png}
+    \includegraphics[width=8cm]{graph/heatmap.png}
     \caption{Heatmap of China} \label{Figure 4}
 \end{figure}
 
 \begin{figure}[H]
     \centering
-    \includegraphics[width=12cm]{graph/Correlation of CHN with Programs.png}
+    \includegraphics[width=8cm]{graph/Correlation of CHN with Programs.png}
     \caption{Correlation of CHN with Programs} \label{Figure 4}
 \end{figure}
 
@@ -170,7 +176,7 @@ During the clustering process, it was observed that data points for the United S
 
 \begin{figure}[H]
     \centering
-    \includegraphics[width=10cm]{graph/K-Means Clustering Redraw.png}
+    \includegraphics[width=8cm]{graph/K-Means Clustering Redraw.png}
     \caption{K-Means Clustering Diagram} \label{Figure 4}
 \end{figure}
 
@@ -228,7 +234,7 @@ Here, $h_t$ represents the hidden state at time $t$, and $x_t$ is the input vect
 
 \begin{figure}[H]
     \centering
-    \includegraphics[width=12cm]{graph/workflow.png}
+    \includegraphics[width=8cm]{graph/workflow.png}
     \caption{Workflow Diagram of the LSTM Mechanism} \label{Figure 4}
 \end{figure}
 
@@ -236,7 +242,7 @@ Here, $h_t$ represents the hidden state at time $t$, and $x_t$ is the input vect
 We performed normalization on the data to reduce the impact of scale differences between features and ensure stability during the training process. Subsequently, we created the input dataset using a sliding window approach, segmenting the original medal data based on the time window. The time step was set to 20, meaning each year's medal count is related to the data from the previous 20 years.
 \begin{figure}[H]
     \centering
-    \includegraphics[width=12cm]{graph/sliding_window.png}
+    \includegraphics[width=8cm]{graph/sliding_window.png}
     \caption{Sliding Window} \label{Figure 4}
 \end{figure}
 
@@ -340,7 +346,7 @@ We analyzed the newly added events in previous Olympic Games and conducted a Pea
 
 \begin{figure}[H]
     \centering
-    \includegraphics[width=12cm]{graph/Correlation by Sport Code.png}
+    \includegraphics[width=8cm]{graph/Correlation by Sport Code.png}
     \caption{Correlation by Sport Code} \label{Figure 4}
 \end{figure}
 
@@ -529,7 +535,7 @@ After careful selection and consideration of the available limited data, we chos
 
 \begin{figure}[h]   
     \centering          
-    \includegraphics[width=12cm]{graph/rf_prediction.png}
+    \includegraphics[width=10cm]{graph/rf_prediction.png}
     \caption{Predicted Probabilities for Medal by Country} \label{fig1}    
 \end{figure}
 
@@ -557,9 +563,16 @@ This section aims to construct a directed graph based on the network flow model 
     \caption{Quantitative Evaluation Framework Based on Network Flow Model } \label{fig1}    
 \end{figure}
 
-\subsubsubsection{Construction of the Basic Directed Graph}
+\subsubsection{Construction of the Basic Directed Graph}
 In the network flow model based on graph theory, we first build a basic directed graph that can reflect the movement of coaches. The nodes represent countries, while the directed edges represent the flow path of a coach moving from one country to another (with the Olympic Games as the time period). If the coach remains in the same country and participates in multiple Olympic Games, a self-loop edge can be used
+\begin{itemize}
+    \item Nodes: Each node represents a country, and it stores the change in gold, silver, and bronze medals $(\Delta\mathrm{G},\Delta\mathrm{S},\Delta\mathrm{B})$ for that country over a specific time period.
+   
+    Node set $V$: Represents the participants and countries, $\mathrm{V=\{v_i|i\in I\}}$ where $I$ is the index set of countries.
+\item 	Directed Edges and Direction: Directed edges represent the movement of coaches from one country to another. The direction of each directed edge is determined by the direction of the coach's transfer, from the original country (outflow country) to the target country (inflow country). The capacity of the directed edge represents the coach's contribution to medal count changes in the target country.
+\end{itemize}
 
+Edge set E: Represents the connections between nodes$\mathrm{E=\{(v_{i},v_{i})|i,j\in I\}}$
 
 \begin{figure}[H]
     \centering
@@ -580,7 +593,25 @@ In the network flow model based on graph theory, we first build a basic directed
     \label{Figure 13}
 \end{figure}
 
+\subsubsection{Weight Calculation}
+In this model, the weight ww of each directed edge represents the change in medal counts before and after the coach's movement and is quantified by the increase or decrease in medal counts. The weight calculation formula is as follows:
+\begin{equation}
+    w=w_G\Delta G+w_S\Delta S+w_B\Delta B
+\end{equation}
 
+%   $\Delta G$ represents the change in gold medals;
+% 	 $\DeltaS$ represents the change in silver medals;
+% 	 $\DeltaB$ represents the change in bronze medals;
+%  $w_G$,$w_S$,$w_B$ are the weight coefficients for gold, silver, and bronze medals, used to quantify the impact of each medal type on the coach’s effect.
+
+Since there is a lack of detailed coach data to quantify the specific impact of medal changes on each countr's performance, we assign fixed weight coefficients to each medal type:$w_G$=4,$w_S$=2,$w_B$=1.
+
+{\bf Data Extraction}
+We use the function filter\_and\_count\_medals to filter and count Olympic data in order to analyze the performance of different countries in various sports under certain conditions. This function filters the data according to the input conditions (such as country, year, gender, and sport), and calculates the quantity of different types of medals (gold, silver, bronze).
+
+{\bf Self-loop Edges for the Same Country}
+For the coach's movement within the same country, we calculate the change in medal counts between two consecutive Olympic Games in the same country and apply the medal weight coefficients to obtain the score. The calculation formula for self-loop edges is as follows:
+\begin{equation}w=4\times\Delta G+2\times\Delta S+1\times\Delta B\end{equation}
 
 
 
@@ -628,4 +659,26 @@ Here are the detailed analyses of these findings and the implications for future
 1.During data cleaning, due to time constraints, we used the athletes dataset as the primary reference for valid NOCs and removed NOCs from the hosts and medals datasets that were not present in the athletes dataset. We did not consider historical changes in countries in greater detail.
 
 2.The lack of data limited the ability to perform more multidimensional model validation. We excluded factors like GDP, and a multivariate linear regression could have better validated the "Great Coach" effect.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%参考文献%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newpage
+
+{\LARGE References}
+
+[1]Koç C K. Analysis of sliding window techniques for exponentiation[J]. Computers and Mathematics with Applications, 1995, 30(10): 17-24.
+
+[2]Hartigan J A, Wong M A. A k-means clustering algorithm[J]. Applied statistics, 1979, 28(1): 100-108.
+
+[3]Cohen I, Huang Y, Chen J, et al. Pearson correlation coefficient[J]. Noise reduction in speech processing, 2009: 1-4.
+
+[4]Dismuke C, Lindrooth R. Ordinary least squares[J]. Methods and designs for outcomes research, 2006, 93(1): 93-104.
+
+[5]Hochreiter S. Long Short-term Memory[J]. Neural Computation MIT-Press, 1997.
+
+[6]Eddy S R. Hidden markov models[J]. Current opinion in structural biology, 1996, 6(3): 361-365.
+
+[7]Breiman L. Random forests[J]. Machine learning, 2001, 45: 5-32.
+
+[8]Scarselli F, Gori M, Tsoi A C, et al. The graph neural network model[J]. IEEE transactions on neural networks, 2008, 20(1): 61-80.
+
+
 \end{document}
