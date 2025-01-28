@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2025.1.20)  28 JAN 2025 07:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2025.1.20)  28 JAN 2025 08:43
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -866,44 +866,7 @@ LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 (Font)              scaled to size 12.0pt on input line 25.
 \@quotelevel=\count462
 \@quotereset=\count463
- (./paper.aux
-
-LaTeX Warning: Label `tab1' multiply defined.
-
-
-LaTeX Warning: Label `tab1' multiply defined.
-
-
-LaTeX Warning: Label `subfig:player1' multiply defined.
-
-
-LaTeX Warning: Label `sub@subfig:player1' multiply defined.
-
-
-LaTeX Warning: Label `subfig:player2' multiply defined.
-
-
-LaTeX Warning: Label `sub@subfig:player2' multiply defined.
-
-
-LaTeX Warning: Label `Figure 13' multiply defined.
-
-
-LaTeX Warning: Label `subfig:player1' multiply defined.
-
-
-LaTeX Warning: Label `sub@subfig:player1' multiply defined.
-
-
-LaTeX Warning: Label `subfig:player2' multiply defined.
-
-
-LaTeX Warning: Label `sub@subfig:player2' multiply defined.
-
-
-LaTeX Warning: Label `Figure 13' multiply defined.
-
-)
+ (./paper.aux)
 \openout1 = `paper.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
@@ -1057,30 +1020,72 @@ LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 (Font)              scaled to size 14.4pt on input line 48.
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
 (Font)              scaled to size 14.4pt on input line 48.
-LaTeX Font Info:    Trying to load font information for TS1+ntxtlf on input line 77.
- (c:/texlive/2023/texmf-dist/tex/latex/newtx/ts1ntxtlf.fd
+Package textcomp Info: Symbol \textrightarrow not provided by
+(textcomp)             font family ntxtlf in TS1 encoding.
+(textcomp)             Default family used instead on input line 74.
+Package textcomp Info: Symbol \textrightarrow not provided by
+(textcomp)             font family ntxtlf in TS1 encoding.
+(textcomp)             Default family used instead on input line 78.
+Package textcomp Info: Symbol \textrightarrow not provided by
+(textcomp)             font family ntxtlf in TS1 encoding.
+(textcomp)             Default family used instead on input line 78.
+
+Overfull \hbox (5.26807pt too wide) in paragraph at lines 70--83
+ [][] 
+ []
+
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 86.
+
+
+Overfull \hbox (381.79912pt too wide) in alignment at lines 89--93
+ [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (381.79912pt too wide) in alignment at lines 93--98
+ [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (381.79912pt too wide) in alignment at lines 98--101
+ [] [] [] [] [] 
+ []
+
+Package textcomp Info: Symbol \textrightarrow not provided by
+(textcomp)             font family ntxtlf in TS1 encoding.
+(textcomp)             Default family used instead on input line 103.
+Package textcomp Info: Symbol \textrightarrow not provided by
+(textcomp)             font family ntxtlf in TS1 encoding.
+(textcomp)             Default family used instead on input line 104.
+Package textcomp Info: Symbol \textrightarrow not provided by
+(textcomp)             font family ntxtlf in TS1 encoding.
+(textcomp)             Default family used instead on input line 104.
+
+Overfull \hbox (381.79912pt too wide) in alignment at lines 101--106
+ [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (121.22093pt too wide) in paragraph at lines 115--130
+ [][] 
+ []
+
+LaTeX Font Info:    Trying to load font information for TS1+ntxtlf on input line 134.
+(c:/texlive/2023/texmf-dist/tex/latex/newtx/ts1ntxtlf.fd
 File: ts1ntxtlf.fd 2015/01/18 v1.0 fd file for TS1/ntxtlf
 )
 LaTeX Font Info:    Font shape `TS1/ntxtlf/m/n' will be
-(Font)              scaled to size 12.0pt on input line 77.
-
-Overfull \hbox (12.4015pt too wide) in paragraph at lines 84--85
-[]\T1/ntxtlf/m/n/12 Construct three data ta-bles, par-tic-i-pa-tion_by_year_country, par-tic-i-pa-tion_by_year_country_count,
- []
-
-
-Overfull \hbox (1.26498pt too wide) in paragraph at lines 86--87
-[]\T1/ntxtlf/m/n/12 To ex-clude coun-tries that did not win any medals, en-tries from the par-tic-i-pa-tion_by_year_country
- []
-
+(Font)              scaled to size 12.0pt on input line 134.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 10.95pt on input line 95.
-LaTeX Font Info:    Trying to load font information for T1+qhv on input line 95.
-(c:/texlive/2023/texmf-dist/tex/latex/tex-gyre/t1qhv.fd
+(Font)              scaled to size 10.95pt on input line 137.
+LaTeX Font Info:    Trying to load font information for T1+qhv on input line 137.
+ (c:/texlive/2023/texmf-dist/tex/latex/tex-gyre/t1qhv.fd
 File: t1qhv.fd 2009/09/25 v1.2 font definition file for T1/qhv
 )
 LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
-(Font)              scaled to size 10.29301pt on input line 95.
+(Font)              scaled to size 10.29301pt on input line 137.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1089,18 +1094,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[2{c:/texlive/2023/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec.enc}{c:/texlive/2023/texmf-dist/fonts/enc/dvips/tex-gyre/q-ts1.enc}]
-LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 8.0pt on input line 124.
-LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 6.0pt on input line 124.
-
-Overfull \hbox (11.09497pt too wide) in paragraph at lines 120--129
+[2{c:/texlive/2023/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec.enc}{c:/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}{c:/texlive/2023/texmf-dist/fonts/enc/dvips/tex-gyre/q-ts1.enc}]
+Overfull \hbox (138.27295pt too wide) in paragraph at lines 144--161
  [][] 
  []
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1110,16 +1107,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [3]
-<graph/rf_roc.png, id=167, 518.1759pt x 423.5022pt>
-File: graph/rf_roc.png Graphic file (type png)
-<use graph/rf_roc.png>
-Package pdftex.def Info: graph/rf_roc.png  used on input line 189.
-(pdftex.def)             Requested size: 187.89914pt x 153.56569pt.
-<.///graph/rf_confusion_matrix.png, id=169, 376.5267pt x 341.8371pt>
-File: .///graph/rf_confusion_matrix.png Graphic file (type png)
-<use .///graph/rf_confusion_matrix.png>
-Package pdftex.def Info: .///graph/rf_confusion_matrix.png  used on input line 196.
-(pdftex.def)             Requested size: 187.89914pt x 170.58951pt.
+Overfull \hbox (398.39694pt too wide) in paragraph at lines 175--189
+ [][] 
+ []
+
+
+Overfull \hbox (138.27295pt too wide) in paragraph at lines 202--219
+ [][] 
+ []
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1136,90 +1131,28 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[5 <./graph/rf_roc.png> <.///graph/rf_confusion_matrix.png>]
-<graph/rf_prediction.png, id=185, 710.4141pt x 422.0568pt>
-File: graph/rf_prediction.png Graphic file (type png)
-<use graph/rf_prediction.png>
-Package pdftex.def Info: graph/rf_prediction.png  used on input line 227.
-(pdftex.def)             Requested size: 341.43306pt x 202.84256pt.
-<graph/graphy super country.png, id=186, 324.7332pt x 315.0972pt>
-File: graph/graphy super country.png Graphic file (type png)
-<use graph/graphy super country.png>
-Package pdftex.def Info: graph/graphy super country.png  used on input line 244.
-(pdftex.def)             Requested size: 211.38832pt x 205.12326pt.
-<graph/graphy country flow.png, id=187, 344.0052pt x 386.8854pt>
-File: graph/graphy country flow.png Graphic file (type png)
-<use graph/graphy country flow.png>
-Package pdftex.def Info: graph/graphy country flow.png  used on input line 251.
-(pdftex.def)             Requested size: 211.38832pt x 237.73535pt.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 13.59999pt, for example:
-(fancyhdr)                \setlength{\headheight}{13.59999pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
-
-[6 <./graph/rf_prediction.png>]
-<graph/Distribution of Sex.png, id=196, 350.5095pt x 364.7226pt>
-File: graph/Distribution of Sex.png Graphic file (type png)
-<use graph/Distribution of Sex.png>
-Package pdftex.def Info: graph/Distribution of Sex.png  used on input line 276.
-(pdftex.def)             Requested size: 211.38832pt x 219.96497pt.
-<graph/Number_of_Athletes_by_Sex.png, id=197, 745.8264pt x 496.4949pt>
-File: graph/Number_of_Athletes_by_Sex.png Graphic file (type png)
-<use graph/Number_of_Athletes_by_Sex.png>
-Package pdftex.def Info: graph/Number_of_Athletes_by_Sex.png  used on input line 283.
-(pdftex.def)             Requested size: 211.38832pt x 140.7222pt.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 13.59999pt, for example:
-(fancyhdr)                \setlength{\headheight}{13.59999pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
-
-[7 <./graph/graphy super country.png> <./graph/graphy country flow.png>]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 13.59999pt, for example:
-(fancyhdr)                \setlength{\headheight}{13.59999pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
-
-[8 <./graph/Distribution of Sex.png> <./graph/Number_of_Athletes_by_Sex.png>]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 13.59999pt, for example:
-(fancyhdr)                \setlength{\headheight}{13.59999pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
-
-[9] 
+[5] 
 enddocument/afterlastpage: lastpage setting LastPage.
 (./paper.aux)
-
-LaTeX Warning: There were multiply-defined labels.
-
 Package rerunfilecheck Info: File `paper.out' has not changed.
-(rerunfilecheck)             Checksum: 2BBE3C0925708514ADDC210E227A6C6A;4652.
+(rerunfilecheck)             Checksum: 93EBA4EAB62E579093C9188B9C240F41;1546.
 Package logreq Info: Writing requests to 'paper.run.xml'.
 \openout1 = `paper.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 25277 strings out of 476025
- 438361 string characters out of 5794015
- 1862382 words of memory out of 5000000
- 45245 multiletter control sequences out of 15000+600000
- 559012 words of font info for 82 fonts, out of 8000000 for 9000
+ 25171 strings out of 476025
+ 435820 string characters out of 5794015
+ 1872382 words of memory out of 5000000
+ 45169 multiletter control sequences out of 15000+600000
+ 553733 words of font info for 81 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 90i,13n,131p,1191b,5176s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/tex-gyre/qhvr.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/tex-gyre/qtmr.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/newtx/ztmb.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/newtx/ztmr.pfb>
-Output written on paper.pdf (10 pages, 729182 bytes).
+ 90i,12n,131p,1191b,5176s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/tex-gyre/qhvr.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/tex-gyre/qtmr.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/newtx/ztmb.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/newtx/ztmr.pfb>
+Output written on paper.pdf (6 pages, 131202 bytes).
 PDF statistics:
- 258 PDF objects out of 1000 (max. 8388607)
- 219 compressed objects within 3 object streams
- 45 named destinations out of 1000 (max. 500000)
- 252 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 133 PDF objects out of 1000 (max. 8388607)
+ 111 compressed objects within 2 object streams
+ 23 named destinations out of 1000 (max. 500000)
+ 81 words of extra memory for PDF output out of 10000 (max. 10000000)
 

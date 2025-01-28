@@ -522,6 +522,7 @@
       <bcf:value>1</bcf:value>
     </bcf:option>
   </bcf:options>
+<<<<<<< HEAD
   <!-- inbook -->
   <bcf:options component="biblatex" type="inbook">
     <bcf:option type="multivalued">
@@ -749,6 +750,8 @@
       <bcf:value>1</bcf:value>
     </bcf:option>
   </bcf:options>
+=======
+>>>>>>> 11f10fc1cf082e462b0a46b934019318235fded7
   <!-- constitution -->
   <bcf:options component="biblatex" type="constitution">
     <bcf:option type="multivalued">
@@ -1639,9 +1642,12 @@
     </bcf:keypart>
   </bcf:sortingnamekeytemplate>
   <bcf:presort>mm</bcf:presort>
+<<<<<<< HEAD
   <bcf:sortexclusion type="inbook">
     <bcf:exclusion>editor</bcf:exclusion>
   </bcf:sortexclusion>
+=======
+>>>>>>> 11f10fc1cf082e462b0a46b934019318235fded7
   <!-- DATA MODEL -->
   <bcf:datamodel>
     <bcf:constants>
