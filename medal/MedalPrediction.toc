@@ -1,0 +1,38 @@
+\contentsline {section}{\numberline {1}Introduction}{3}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Background}{3}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Restatement of the Problem}{3}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Our Work}{4}{subsection.1.3}%
+\contentsline {section}{\numberline {2}Assumptions and Justification}{4}{section.2}%
+\contentsline {section}{\numberline {3}Notations}{4}{section.3}%
+\contentsline {section}{\numberline {4}Data Cleaning}{4}{section.4}%
+\contentsline {section}{\numberline {5}TASK1\&2: Medal Count Prediction Based on LSTM}{4}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Data Analysis}{4}{subsection.5.1}%
+\contentsline {subsubsection}{\numberline {5.1.1}Correlation Matrix Analysis Based on Pearson Correlation}{5}{subsubsection.5.1.1}%
+\contentsline {subsubsection}{\numberline {5.1.2}A Classification Model for Medal-Winning Countries Based on K-Means}{6}{subsubsection.5.1.2}%
+\contentsline {subsection}{\numberline {5.2}Model Selection}{8}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Long and Short Term Memory Network}{8}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}Implementation of LSTM}{9}{subsection.5.4}%
+\contentsline {subsubsection}{\numberline {5.4.1}Quantifying the Impact of Host Countries}{10}{subsubsection.5.4.1}%
+\contentsline {subsubsection}{\numberline {5.4.2}Building the LSTM Model}{10}{subsubsection.5.4.2}%
+\contentsline {subsection}{\numberline {5.5}Prediction Interval from the Result}{11}{subsection.5.5}%
+\contentsline {subsection}{\numberline {5.6}the Advantage of LSTM}{14}{subsection.5.6}%
+\contentsline {section}{\numberline {6}TASK3:Random Forest-based prediction of first-time award-winning countries}{15}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Random Forest Model}{15}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Data Preparation and Preprocessing}{15}{subsection.6.2}%
+\contentsline {subsubsection}{\numberline {6.2.1}Data Table Construction}{15}{subsubsection.6.2.1}%
+\contentsline {subsubsection}{\numberline {6.2.2}Dataset Creation}{16}{subsubsection.6.2.2}%
+\contentsline {subsection}{\numberline {6.3} Model Construction}{16}{subsection.6.3}%
+\contentsline {subsubsection}{\numberline {6.3.1}Variable Analysis}{16}{subsubsection.6.3.1}%
+\contentsline {subsubsection}{\numberline {6.3.2}Model Training}{17}{subsubsection.6.3.2}%
+\contentsline {subsubsection}{\numberline {6.3.3}Model Performance Visualization}{17}{subsubsection.6.3.3}%
+\contentsline {subsubsection}{\numberline {6.3.4}Model Prediction}{18}{subsubsection.6.3.4}%
+\contentsline {subsection}{\numberline {6.4}Model Testing}{18}{subsection.6.4}%
+\contentsline {subsubsection}{\numberline {6.4.1}Test Set Construction}{18}{subsubsection.6.4.1}%
+\contentsline {subsubsection}{\numberline {6.4.2}Testing}{18}{subsubsection.6.4.2}%
+\contentsline {section}{\numberline {7}TASK4: Quantitative Graph Theory Model of the "Great Coach Effect" Based on Network Flow}{19}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Model Background}{19}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}Model Construction}{20}{subsection.7.2}%
+\contentsline {section}{\numberline {8}Letter}{21}{section.8}%
+\contentsline {section}{\numberline {9}Model Assessment}{21}{section.9}%
+\contentsline {subsection}{\numberline {9.1}Strengths}{21}{subsection.9.1}%
+\contentsline {subsection}{\numberline {9.2}Weaknesses}{22}{subsection.9.2}%

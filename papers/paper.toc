@@ -5,23 +5,6 @@
 \contentsline {subsection}{\numberline {1.4}Our Work}{2}{subsection.1.4}%
 \contentsline {section}{\numberline {2}Assumptions and Justification}{2}{section.2}%
 \contentsline {section}{\numberline {3}Notations}{2}{section.3}%
-\contentsline {section}{\numberline {4}TASK3:Random Forest-based prediction of first-time award-winning countries}{2}{section.4}%
-\contentsline {subsection}{\numberline {4.1}Random Forest Model}{2}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}Data Preparation and Preprocessing}{2}{subsection.4.2}%
-\contentsline {subsubsection}{\numberline {4.2.1}Data Table Construction}{2}{subsubsection.4.2.1}%
-\contentsline {subsubsection}{\numberline {4.2.2}Dataset Creation}{2}{subsubsection.4.2.2}%
-\contentsline {subsection}{\numberline {4.3} Model Construction}{3}{subsection.4.3}%
-\contentsline {subsubsection}{\numberline {4.3.1}Variable Analysis}{3}{subsubsection.4.3.1}%
-\contentsline {subsubsection}{\numberline {4.3.2}Model Training}{3}{subsubsection.4.3.2}%
-\contentsline {subsubsection}{\numberline {4.3.3}Model Performance Visualization}{4}{subsubsection.4.3.3}%
-\contentsline {subsubsection}{\numberline {4.3.4}Model Prediction}{5}{subsubsection.4.3.4}%
-\contentsline {subsection}{\numberline {4.4}Model Testing}{5}{subsection.4.4}%
-\contentsline {subsubsection}{\numberline {4.4.1}Test Set Construction}{5}{subsubsection.4.4.1}%
-\contentsline {subsubsection}{\numberline {4.4.2}Testing}{6}{subsubsection.4.4.2}%
-\contentsline {subsection}{\numberline {4.5}TASK4: Quantitative Graph Theory Model of the "Great Coach Effect" Based on Network Flow}{7}{subsection.4.5}%
-\contentsline {subsubsection}{\numberline {4.5.1}Model Background}{7}{subsubsection.4.5.1}%
-\contentsline {subsubsection}{\numberline {4.5.2}Model Construction}{7}{subsubsection.4.5.2}%
-\contentsline {subsection}{\numberline {4.6}Letter}{7}{subsection.4.6}%
-\contentsline {subsection}{\numberline {4.7}Model Assessment}{9}{subsection.4.7}%
-\contentsline {subsubsection}{\numberline {4.7.1}Strengths}{9}{subsubsection.4.7.1}%
-\contentsline {subsubsection}{\numberline {4.7.2}Weaknesses}{9}{subsubsection.4.7.2}%
+\contentsline {subsubsection}{\numberline {3.0.1}Flow Calculation}{2}{subsubsection.3.0.1}%
+\contentsline {subsection}{\numberline {3.1}Model Results and Analysis}{2}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Verification and Strategy Recommendations}{4}{subsection.3.2}%
