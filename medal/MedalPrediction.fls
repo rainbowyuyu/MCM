@@ -1178,6 +1178,7 @@ INPUT c:/texlive/2023/texmf-dist/tex/latex/caption/ltcaption.sty
 INPUT c:/texlive/2023/texmf-dist/tex/latex/caption/ltcaption.sty
 INPUT c:/texlive/2023/texmf-dist/tex/latex/caption/ltcaption.sty
 INPUT c:/texlive/2023/texmf-dist/tex/latex/caption/ltcaption.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/graphics/graphicx.sty
 INPUT c:/texlive/2023/texmf-dist/tex/latex/float/float.sty
 INPUT c:/texlive/2023/texmf-dist/tex/latex/float/float.sty
 INPUT c:/texlive/2023/texmf-dist/tex/latex/float/float.sty
@@ -1220,23 +1221,121 @@ INPUT ./MedalPrediction.aux
 INPUT MedalPrediction.aux
 INPUT MedalPrediction.aux
 OUTPUT MedalPrediction.aux
-INPUT c:/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
-INPUT c:/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
-INPUT c:/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
-INPUT c:/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
-INPUT c:/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+<<<<<<< HEAD
+INPUT d:/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+INPUT d:/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+INPUT d:/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+INPUT ./MedalPrediction.out
 INPUT ./MedalPrediction.out
 INPUT MedalPrediction.out
-INPUT ./MedalPrediction.out
-INPUT MedalPrediction.out
-INPUT ./MedalPrediction.out
-INPUT MedalPrediction.out
-INPUT ./MedalPrediction.out
 INPUT MedalPrediction.out
 OUTPUT MedalPrediction.pdf
 INPUT ./MedalPrediction.out
 INPUT ./MedalPrediction.out
 OUTPUT MedalPrediction.out
+INPUT d:/texlive/2024/texmf-dist/tex/latex/biblatex-apa/english-apa.lbx
+INPUT d:/texlive/2024/texmf-dist/tex/latex/biblatex-apa/english-apa.lbx
+INPUT d:/texlive/2024/texmf-dist/tex/latex/biblatex-apa/english-apa.lbx
+INPUT d:/texlive/2024/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+INPUT d:/texlive/2024/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+INPUT d:/texlive/2024/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+INPUT d:/texlive/2024/texmf-dist/tex/latex/biblatex-apa/american-apa.lbx
+INPUT d:/texlive/2024/texmf-dist/tex/latex/biblatex-apa/american-apa.lbx
+INPUT d:/texlive/2024/texmf-dist/tex/latex/biblatex-apa/american-apa.lbx
+INPUT d:/texlive/2024/texmf-dist/tex/latex/biblatex/lbx/american.lbx
+INPUT d:/texlive/2024/texmf-dist/tex/latex/biblatex/lbx/american.lbx
+INPUT d:/texlive/2024/texmf-dist/tex/latex/biblatex/lbx/american.lbx
+INPUT d:/texlive/2024/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+INPUT d:/texlive/2024/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+INPUT d:/texlive/2024/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+OUTPUT MedalPrediction.bcf
+INPUT MedalPrediction.bbl
+INPUT ./MedalPrediction.bbl
+INPUT ./MedalPrediction.bbl
+INPUT ./MedalPrediction.bbl
+INPUT MedalPrediction.bbl
+INPUT d:/texlive/2024/texmf-dist/fonts/tfm/public/newtx/ntx-Bold-tlf-t1.tfm
+INPUT d:/texlive/2024/texmf-dist/fonts/tfm/public/newtx/ntx-Bold-tlf-t1.tfm
+INPUT d:/texlive/2024/texmf-dist/fonts/tfm/public/newtx/ntx-Regular-tlf-t1.tfm
+INPUT d:/texlive/2024/texmf-dist/fonts/tfm/public/newtx/ntx-Bold-tlf-t1.tfm
+INPUT d:/texlive/2024/texmf-dist/fonts/tfm/public/newtx/ntx-Bold-tlf-t1.tfm
+INPUT d:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
+INPUT d:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
+INPUT d:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
+INPUT d:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm
+INPUT d:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
+INPUT d:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
+INPUT d:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm
+INPUT d:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
+INPUT d:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
+INPUT d:/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm
+INPUT d:/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
+INPUT d:/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
+INPUT d:/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
+INPUT d:/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
+INPUT d:/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT d:/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT d:/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7.tfm
+INPUT d:/texlive/2024/texmf-dist/tex/latex/amsfonts/umsb.fd
+INPUT d:/texlive/2024/texmf-dist/tex/latex/amsfonts/umsb.fd
+INPUT d:/texlive/2024/texmf-dist/tex/latex/amsfonts/umsb.fd
+INPUT d:/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT d:/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT d:/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
+INPUT d:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+INPUT d:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx8.tfm
+INPUT d:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx6.tfm
+INPUT d:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmmib10.tfm
+INPUT d:/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmmib8.tfm
+INPUT d:/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmmib6.tfm
+INPUT d:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbsy10.tfm
+INPUT d:/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy8.tfm
+INPUT d:/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy6.tfm
+INPUT d:/texlive/2024/texmf-dist/tex/latex/jknapltx/ursfs.fd
+INPUT d:/texlive/2024/texmf-dist/tex/latex/jknapltx/ursfs.fd
+INPUT d:/texlive/2024/texmf-dist/tex/latex/jknapltx/ursfs.fd
+INPUT d:/texlive/2024/texmf-dist/fonts/tfm/public/rsfs/rsfs10.tfm
+INPUT d:/texlive/2024/texmf-dist/fonts/tfm/public/rsfs/rsfs10.tfm
+INPUT d:/texlive/2024/texmf-dist/fonts/tfm/public/rsfs/rsfs5.tfm
+INPUT d:/texlive/2024/texmf-dist/tex/latex/base/ulasy.fd
+INPUT d:/texlive/2024/texmf-dist/tex/latex/base/ulasy.fd
+INPUT d:/texlive/2024/texmf-dist/tex/latex/base/ulasy.fd
+INPUT d:/texlive/2024/texmf-dist/fonts/tfm/public/latex-fonts/lasy10.tfm
+INPUT d:/texlive/2024/texmf-dist/fonts/tfm/public/latex-fonts/lasy8.tfm
+INPUT d:/texlive/2024/texmf-dist/fonts/tfm/public/latex-fonts/lasy6.tfm
+INPUT d:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map
+INPUT d:/texlive/2024/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf.enc
+INPUT d:/texlive/2024/texmf-dist/fonts/tfm/public/newtx/ntx-Regular-tlf-t1.tfm
+INPUT d:/texlive/2024/texmf-dist/fonts/tfm/public/newtx/ntx-Bold-tlf-t1.tfm
+INPUT ./MedalPrediction.toc
+INPUT ./MedalPrediction.toc
+INPUT MedalPrediction.toc
+OUTPUT MedalPrediction.toc
+INPUT d:/texlive/2024/texmf-dist/fonts/tfm/public/newtx/ntx-Regular-tlf-t1.tfm
+INPUT d:/texlive/2024/texmf-dist/tex/latex/newtx/ts1ntxtlf.fd
+INPUT d:/texlive/2024/texmf-dist/tex/latex/newtx/ts1ntxtlf.fd
+INPUT d:/texlive/2024/texmf-dist/tex/latex/newtx/ts1ntxtlf.fd
+INPUT d:/texlive/2024/texmf-dist/fonts/tfm/public/tex-gyre/ts1-qtmr.tfm
+INPUT d:/texlive/2024/texmf-dist/fonts/tfm/public/newtx/ntx-Regular-tlf-t1.tfm
+INPUT d:/texlive/2024/texmf-dist/tex/latex/bera/t1fvs.fd
+INPUT d:/texlive/2024/texmf-dist/tex/latex/bera/t1fvs.fd
+INPUT d:/texlive/2024/texmf-dist/tex/latex/bera/t1fvs.fd
+INPUT d:/texlive/2024/texmf-dist/fonts/tfm/public/bera/fvsr8t.tfm
+INPUT d:/texlive/2024/texmf-dist/fonts/vf/public/bera/fvsr8t.vf
+INPUT d:/texlive/2024/texmf-dist/fonts/tfm/public/bera/fvsr8r.tfm
+INPUT d:/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc
+INPUT d:/texlive/2024/texmf-dist/fonts/enc/dvips/tex-gyre/q-ts1.enc
+INPUT ./graph/heatmap.png
+INPUT ./graph/heatmap.png
+INPUT ./graph/heatmap.png
+=======
+INPUT c:/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+INPUT c:/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+INPUT c:/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+INPUT c:/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+INPUT c:/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+OUTPUT MedalPrediction.out
+OUTPUT MedalPrediction.pdf
 INPUT c:/texlive/2023/texmf-dist/tex/latex/biblatex-apa/english-apa.lbx
 INPUT c:/texlive/2023/texmf-dist/tex/latex/biblatex-apa/english-apa.lbx
 INPUT c:/texlive/2023/texmf-dist/tex/latex/biblatex-apa/english-apa.lbx
@@ -1268,13 +1367,6 @@ INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/newtx/ntx-Bold-tlf-t1.tfm
 INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/newtx/ntx-Regular-tlf-t1.tfm
 INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/newtx/ntx-Bold-tlf-t1.tfm
 INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/newtx/ntx-Bold-tlf-t1.tfm
-INPUT c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map
-INPUT c:/texlive/2023/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf.enc
-INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/newtx/ntx-Regular-tlf-t1.tfm
-INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/newtx/ntx-Bold-tlf-t1.tfm
-INPUT ./MedalPrediction.toc
-INPUT MedalPrediction.toc
-INPUT MedalPrediction.toc
 INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
 INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
 INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
@@ -1323,20 +1415,320 @@ INPUT c:/texlive/2023/texmf-dist/tex/latex/base/ulasy.fd
 INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/latex-fonts/lasy10.tfm
 INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/latex-fonts/lasy8.tfm
 INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/latex-fonts/lasy6.tfm
+INPUT c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map
+INPUT c:/texlive/2023/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf.enc
+INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/newtx/ntx-Regular-tlf-t1.tfm
+INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/newtx/ntx-Bold-tlf-t1.tfm
 OUTPUT MedalPrediction.toc
 INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/newtx/ntx-Regular-tlf-t1.tfm
+INPUT c:/texlive/2023/texmf-dist/tex/latex/newtx/ts1ntxtlf.fd
+INPUT c:/texlive/2023/texmf-dist/tex/latex/newtx/ts1ntxtlf.fd
+INPUT c:/texlive/2023/texmf-dist/tex/latex/newtx/ts1ntxtlf.fd
+INPUT c:/texlive/2023/texmf-dist/tex/latex/newtx/ts1ntxtlf.fd
+INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/tex-gyre/ts1-qtmr.tfm
 INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/newtx/ntx-Regular-tlf-t1.tfm
 INPUT c:/texlive/2023/texmf-dist/tex/latex/tex-gyre/t1qhv.fd
 INPUT c:/texlive/2023/texmf-dist/tex/latex/tex-gyre/t1qhv.fd
 INPUT c:/texlive/2023/texmf-dist/tex/latex/tex-gyre/t1qhv.fd
 INPUT c:/texlive/2023/texmf-dist/tex/latex/tex-gyre/t1qhv.fd
 INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/tex-gyre/ec-qhvr.tfm
+INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/newtx/ntx-Bold-tlf-t1.tfm
 INPUT c:/texlive/2023/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec.enc
+INPUT c:/texlive/2023/texmf-dist/fonts/enc/dvips/tex-gyre/q-ts1.enc
+INPUT ./graph/heatmap.png
+INPUT ./graph/heatmap.png
+INPUT graph/heatmap.png
+>>>>>>> 11f10fc1cf082e462b0a46b934019318235fded7
+INPUT ./graph/heatmap.png
+INPUT ./graph/heatmap.png
+INPUT ./graph/Correlation of CHN with Programs.png
+INPUT ./graph/Correlation of CHN with Programs.png
+<<<<<<< HEAD
+INPUT ./graph/Correlation of CHN with Programs.png
+=======
+INPUT graph/Correlation of CHN with Programs.png
+>>>>>>> 11f10fc1cf082e462b0a46b934019318235fded7
+INPUT ./graph/Correlation of CHN with Programs.png
+INPUT ./graph/Correlation of CHN with Programs.png
+INPUT ./graph/K-means.png
+INPUT ./graph/K-means.png
+<<<<<<< HEAD
+INPUT ./graph/K-means.png
+INPUT ./graph/K-means.png
+INPUT ./graph/K-means.png
+INPUT d:/texlive/2024/texmf-dist/fonts/tfm/public/newtx/ntx-Regular-tlf-t1.tfm
+INPUT d:/texlive/2024/texmf-dist/fonts/tfm/public/newtx/ntx-Regular-tlf-t1.tfm
+INPUT ./graph/K-Means Clustering Redraw.png
+INPUT ./graph/K-Means Clustering Redraw.png
+INPUT ./graph/K-Means Clustering Redraw.png
+=======
+INPUT graph/K-means.png
+INPUT ./graph/K-means.png
+INPUT ./graph/K-means.png
+INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/newtx/ntx-Regular-tlf-t1.tfm
+INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/newtx/ntx-Regular-tlf-t1.tfm
+INPUT ./graph/K-Means Clustering Redraw.png
+INPUT ./graph/K-Means Clustering Redraw.png
+INPUT graph/K-Means Clustering Redraw.png
+>>>>>>> 11f10fc1cf082e462b0a46b934019318235fded7
+INPUT ./graph/K-Means Clustering Redraw.png
+INPUT ./graph/K-Means Clustering Redraw.png
+INPUT ./graph/workflow.png
+INPUT ./graph/workflow.png
+<<<<<<< HEAD
+INPUT ./graph/workflow.png
+=======
+INPUT graph/workflow.png
+>>>>>>> 11f10fc1cf082e462b0a46b934019318235fded7
+INPUT ./graph/workflow.png
+INPUT ./graph/workflow.png
+INPUT ./graph/sliding_window.png
+INPUT ./graph/sliding_window.png
+<<<<<<< HEAD
+INPUT ./graph/sliding_window.png
+=======
+INPUT graph/sliding_window.png
+>>>>>>> 11f10fc1cf082e462b0a46b934019318235fded7
+INPUT ./graph/sliding_window.png
+INPUT ./graph/sliding_window.png
+INPUT ./predict/USA_medals_prediction.png
+INPUT ./predict/USA_medals_prediction.png
+<<<<<<< HEAD
+INPUT ./predict/USA_medals_prediction.png
+=======
+INPUT predict/USA_medals_prediction.png
+>>>>>>> 11f10fc1cf082e462b0a46b934019318235fded7
+INPUT ./predict/USA_medals_prediction.png
+INPUT ./predict/USA_medals_prediction.png
+INPUT ./predict/CHN_medals_prediction.png
+INPUT ./predict/CHN_medals_prediction.png
+<<<<<<< HEAD
+INPUT ./predict/CHN_medals_prediction.png
+=======
+INPUT predict/CHN_medals_prediction.png
+>>>>>>> 11f10fc1cf082e462b0a46b934019318235fded7
+INPUT ./predict/CHN_medals_prediction.png
+INPUT ./predict/CHN_medals_prediction.png
+INPUT ./predict/FRA_medals_prediction.png
+INPUT ./predict/FRA_medals_prediction.png
+<<<<<<< HEAD
+INPUT ./predict/FRA_medals_prediction.png
+=======
+INPUT predict/FRA_medals_prediction.png
+>>>>>>> 11f10fc1cf082e462b0a46b934019318235fded7
+INPUT ./predict/FRA_medals_prediction.png
+INPUT ./predict/FRA_medals_prediction.png
+INPUT ./predict/GRE_medals_prediction.png
+INPUT ./predict/GRE_medals_prediction.png
+<<<<<<< HEAD
+INPUT ./predict/GRE_medals_prediction.png
+=======
+INPUT predict/GRE_medals_prediction.png
+>>>>>>> 11f10fc1cf082e462b0a46b934019318235fded7
+INPUT ./predict/GRE_medals_prediction.png
+INPUT ./predict/GRE_medals_prediction.png
+INPUT ./predict/INA_medals_prediction.png
+INPUT ./predict/INA_medals_prediction.png
+<<<<<<< HEAD
+INPUT ./predict/INA_medals_prediction.png
+=======
+INPUT predict/INA_medals_prediction.png
+>>>>>>> 11f10fc1cf082e462b0a46b934019318235fded7
+INPUT ./predict/INA_medals_prediction.png
+INPUT ./predict/INA_medals_prediction.png
+INPUT ./predict/TPE_medals_prediction.png
+INPUT ./predict/TPE_medals_prediction.png
+<<<<<<< HEAD
+INPUT ./predict/TPE_medals_prediction.png
+=======
+INPUT predict/TPE_medals_prediction.png
+>>>>>>> 11f10fc1cf082e462b0a46b934019318235fded7
+INPUT ./predict/TPE_medals_prediction.png
+INPUT ./predict/TPE_medals_prediction.png
+INPUT ./graph/res1.png
+INPUT ./graph/res1.png
+<<<<<<< HEAD
+INPUT ./graph/res1.png
+=======
+INPUT graph/res1.png
+>>>>>>> 11f10fc1cf082e462b0a46b934019318235fded7
+INPUT ./graph/res1.png
+INPUT ./graph/res1.png
+INPUT ./graph/res2.png
+INPUT ./graph/res2.png
+<<<<<<< HEAD
+INPUT ./graph/res2.png
+=======
+INPUT graph/res2.png
+>>>>>>> 11f10fc1cf082e462b0a46b934019318235fded7
+INPUT ./graph/res2.png
+INPUT ./graph/res2.png
+INPUT ./graph/res3.png
+INPUT ./graph/res3.png
+<<<<<<< HEAD
+INPUT ./graph/res3.png
+=======
+INPUT graph/res3.png
+>>>>>>> 11f10fc1cf082e462b0a46b934019318235fded7
+INPUT ./graph/res3.png
+INPUT ./graph/res3.png
+INPUT ./graph/res11.png
+INPUT ./graph/res11.png
+<<<<<<< HEAD
+INPUT ./graph/res11.png
+=======
+INPUT graph/res11.png
+>>>>>>> 11f10fc1cf082e462b0a46b934019318235fded7
+INPUT ./graph/res11.png
+INPUT ./graph/res11.png
+INPUT ./graph/res22.png
+INPUT ./graph/res22.png
+<<<<<<< HEAD
+INPUT ./graph/res22.png
+=======
+INPUT graph/res22.png
+>>>>>>> 11f10fc1cf082e462b0a46b934019318235fded7
+INPUT ./graph/res22.png
+INPUT ./graph/res22.png
+INPUT ./graph/res33.png
+INPUT ./graph/res33.png
+<<<<<<< HEAD
+INPUT ./graph/res33.png
+=======
+INPUT graph/res33.png
+>>>>>>> 11f10fc1cf082e462b0a46b934019318235fded7
+INPUT ./graph/res33.png
+INPUT ./graph/res33.png
+INPUT ./graph/Correlation by Sport Code.png
+INPUT ./graph/Correlation by Sport Code.png
+<<<<<<< HEAD
+INPUT ./graph/Correlation by Sport Code.png
+=======
+INPUT graph/Correlation by Sport Code.png
+>>>>>>> 11f10fc1cf082e462b0a46b934019318235fded7
+INPUT ./graph/Correlation by Sport Code.png
+INPUT ./graph/Correlation by Sport Code.png
+INPUT ./graph/Average Loss by NOC Using HMM.png
+INPUT ./graph/Average Loss by NOC Using HMM.png
+<<<<<<< HEAD
+INPUT ./graph/Average Loss by NOC Using HMM.png
+=======
+INPUT graph/Average Loss by NOC Using HMM.png
+>>>>>>> 11f10fc1cf082e462b0a46b934019318235fded7
+INPUT ./graph/Average Loss by NOC Using HMM.png
+INPUT ./graph/Average Loss by NOC Using HMM.png
+INPUT ./graph/Average Loss by NOC Using LSTM.png
+INPUT ./graph/Average Loss by NOC Using LSTM.png
+<<<<<<< HEAD
+INPUT ./graph/Average Loss by NOC Using LSTM.png
+=======
+INPUT graph/Average Loss by NOC Using LSTM.png
+>>>>>>> 11f10fc1cf082e462b0a46b934019318235fded7
+INPUT ./graph/Average Loss by NOC Using LSTM.png
+INPUT ./graph/Average Loss by NOC Using LSTM.png
+INPUT ./graph/rf_roc.png
+INPUT ./graph/rf_roc.png
+<<<<<<< HEAD
+INPUT ./graph/rf_roc.png
+INPUT ./graph/rf_roc.png
+INPUT ./graph/rf_roc.png
+INPUT .//graph/rf_confusion_matrix.png
+INPUT .//graph/rf_confusion_matrix.png
+INPUT .//graph/rf_confusion_matrix.png
+INPUT .//graph/rf_confusion_matrix.png
+INPUT ./graph/rf_prediction.png
+INPUT ./graph/rf_prediction.png
+INPUT ./graph/rf_prediction.png
+=======
+INPUT graph/rf_roc.png
+INPUT ./graph/rf_roc.png
+INPUT ./graph/rf_roc.png
+INPUT .///graph/rf_confusion_matrix.png
+INPUT .///graph/rf_confusion_matrix.png
+INPUT .///graph/rf_confusion_matrix.png
+INPUT .///graph/rf_confusion_matrix.png
+INPUT ./graph/rf_prediction.png
+INPUT ./graph/rf_prediction.png
+INPUT graph/rf_prediction.png
+>>>>>>> 11f10fc1cf082e462b0a46b934019318235fded7
+INPUT ./graph/rf_prediction.png
+INPUT ./graph/rf_prediction.png
+INPUT ./graph/graphy_baseline.png
+INPUT ./graph/graphy_baseline.png
+<<<<<<< HEAD
+INPUT ./graph/graphy_baseline.png
+=======
+INPUT graph/graphy_baseline.png
+>>>>>>> 11f10fc1cf082e462b0a46b934019318235fded7
+INPUT ./graph/graphy_baseline.png
+INPUT ./graph/graphy_baseline.png
+INPUT ./graph/graphy super country.png
+INPUT ./graph/graphy super country.png
+<<<<<<< HEAD
+INPUT ./graph/graphy super country.png
+=======
+INPUT graph/graphy super country.png
+>>>>>>> 11f10fc1cf082e462b0a46b934019318235fded7
+INPUT ./graph/graphy super country.png
+INPUT ./graph/graphy super country.png
+INPUT ./graph/graphy country flow.png
+INPUT ./graph/graphy country flow.png
+<<<<<<< HEAD
+INPUT ./graph/graphy country flow.png
+=======
+INPUT graph/graphy country flow.png
+>>>>>>> 11f10fc1cf082e462b0a46b934019318235fded7
+INPUT ./graph/graphy country flow.png
+INPUT ./graph/graphy country flow.png
+INPUT ./graph/Distribution of Sex.png
+INPUT ./graph/Distribution of Sex.png
+<<<<<<< HEAD
+INPUT ./graph/Distribution of Sex.png
+=======
+INPUT graph/Distribution of Sex.png
+>>>>>>> 11f10fc1cf082e462b0a46b934019318235fded7
+INPUT ./graph/Distribution of Sex.png
+INPUT ./graph/Distribution of Sex.png
+INPUT ./graph/Number_of_Athletes_by_Sex.png
+INPUT ./graph/Number_of_Athletes_by_Sex.png
+<<<<<<< HEAD
+INPUT ./graph/Number_of_Athletes_by_Sex.png
+=======
+INPUT graph/Number_of_Athletes_by_Sex.png
+>>>>>>> 11f10fc1cf082e462b0a46b934019318235fded7
+INPUT ./graph/Number_of_Athletes_by_Sex.png
+INPUT ./graph/Number_of_Athletes_by_Sex.png
 INPUT MedalPrediction.aux
 INPUT ./MedalPrediction.out
 INPUT ./MedalPrediction.out
 INPUT MedalPrediction.run.xml
 OUTPUT MedalPrediction.run.xml
+<<<<<<< HEAD
+INPUT d:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb
+INPUT d:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb
+INPUT d:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb
+INPUT d:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb
+INPUT d:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb
+INPUT d:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb
+INPUT d:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb
+INPUT d:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
+INPUT d:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb
+INPUT d:/texlive/2024/texmf-dist/fonts/type1/public/bera/fvsr8a.pfb
+INPUT d:/texlive/2024/texmf-dist/fonts/type1/public/tex-gyre/qtmr.pfb
+INPUT d:/texlive/2024/texmf-dist/fonts/type1/public/newtx/ztmb.pfb
+INPUT d:/texlive/2024/texmf-dist/fonts/type1/public/newtx/ztmr.pfb
+=======
+INPUT c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb
+INPUT c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb
+INPUT c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb
+INPUT c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb
+INPUT c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb
+INPUT c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb
+INPUT c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb
+INPUT c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
+INPUT c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb
 INPUT c:/texlive/2023/texmf-dist/fonts/type1/public/tex-gyre/qhvr.pfb
+INPUT c:/texlive/2023/texmf-dist/fonts/type1/public/tex-gyre/qtmr.pfb
 INPUT c:/texlive/2023/texmf-dist/fonts/type1/public/newtx/ztmb.pfb
 INPUT c:/texlive/2023/texmf-dist/fonts/type1/public/newtx/ztmr.pfb
+>>>>>>> 11f10fc1cf082e462b0a46b934019318235fded7

@@ -1,0 +1,25 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:310> INFO - Logfile is 'copy.blg'
+[113] biber-MSWIN64:340> INFO - === 
+[158] Biber.pm:419> INFO - Reading 'copy.bcf'
+[271] Biber.pm:979> INFO - Found 5 citekeys in bib section 0
+[288] Biber.pm:4419> INFO - Processing section 0
+[300] Biber.pm:4610> INFO - Looking for bibtex file 'reference.bib' for section 0
+[365] bibtex.pm:1713> INFO - LaTeX decoding ...
+[376] bibtex.pm:1519> INFO - Found BibTeX data source 'reference.bib'
+[383] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[383] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[383] Biber.pm:4239> INFO - Sorting list 'apa/apasortcite//global/global' of type 'entry' with template 'apa' and locale 'en-US'
+[383] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[390] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[390] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[390] Biber.pm:4239> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'en-US'
+[390] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[391] bbl.pm:660> INFO - Writing 'copy.bbl' with encoding 'UTF-8'
+[391] bbl.pm:763> INFO - Output to copy.bbl
+[392] Biber.pm:131> WARN - I didn't find a database entry for '1' (section 0)
+[392] Biber.pm:131> WARN - I didn't find a database entry for '[2]' (section 0)
+[392] Biber.pm:131> WARN - I didn't find a database entry for '[4]' (section 0)
+[392] Biber.pm:131> WARN - I didn't find a database entry for '3' (section 0)
+[392] Biber.pm:131> WARN - I didn't find a database entry for '[5]' (section 0)
+[392] Biber.pm:133> INFO - WARNINGS: 5

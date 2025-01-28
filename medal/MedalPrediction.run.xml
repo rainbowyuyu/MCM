@@ -41,7 +41,11 @@
   >
 ]>
 <requests version="1.0">
+<<<<<<< HEAD
   <internal package="biblatex" priority="9" active="0">
+=======
+  <internal package="biblatex" priority="9" active="1">
+>>>>>>> 11f10fc1cf082e462b0a46b934019318235fded7
     <generic>latex</generic>
     <provides type="dynamic">
       <file>MedalPrediction.bcf</file>
@@ -64,7 +68,11 @@
       <file>english-apa.lbx</file>
     </requires>
   </internal>
+<<<<<<< HEAD
   <external package="biblatex" priority="5" active="0">
+=======
+  <external package="biblatex" priority="5" active="1">
+>>>>>>> 11f10fc1cf082e462b0a46b934019318235fded7
     <generic>biber</generic>
     <cmdline>
       <binary>biber</binary>
